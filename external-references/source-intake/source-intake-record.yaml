@@ -1,0 +1,22 @@
+intake_record_id: SRC-INTAKE-0001
+status: READY_FOR_SOURCE_INPUT
+source_artifacts_received: 0
+source_artifacts_ingested: 0
+authority_status: NOT_ESTABLISHED
+revision_basis_status: NOT_ESTABLISHED
+owner: NOT_ESTABLISHED
+target_objects:
+  - MA-01
+  - MA-05
+  - MA-06
+  - MA-07
+  - MA-08
+  - MA-10
+open_questions:
+  - Q-AUTHORITY-001
+  - Q-SOURCE-REVISION-001
+rules:
+  - preserve_provenance
+  - require_exact_revision_when_available
+  - separate_source_from_knowledge
+  - do_not_invent_metadata
