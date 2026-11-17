@@ -1,0 +1,34 @@
+stage_id: STAGE-15
+branch: stage15_source_intake
+status: SOURCE_METADATA_INVENTORIED
+source_artifacts_received: 2
+source_artifacts_inventoried:
+  target_documents: 2
+  source_directories: 2
+  source_files: 126
+  total_inventory_entries: 130
+source_artifacts_ingested: 0
+content_analysis: NOT_PERFORMED
+metadata_publication: USER_APPROVED_PUBLIC_GITHUB_METADATA_PUBLICATION
+inventory_file: external-references/source-intake/source-inventory-0001.json
+inventory_commit: d8141328c58e878f01ff74cc8c2607aefe52cc8c
+inventory_scope:
+  - approved target PDF
+  - approved target TXT
+  - src_C direct contents
+  - src_C/inc direct contents
+  - exact Drive IDs, URLs, names, MIME types, sizes, permissions, and timestamps
+excluded_from_inventory:
+  - unrelated parent-folder directories
+  - unrelated XLSX files
+production_content_added: false
+candidate_structure_changed: false
+authority_status: NOT_ESTABLISHED
+provenance_status: RECORDED_LOCATION_ONLY
+revision_basis_status: NOT_ESTABLISHED
+open_questions:
+  - Q-AUTHORITY-001
+  - Q-SOURCE-REVISION-001
+next_required_input: establish source authority and exact revision basis before content-derived candidate work
+main_unchanged: true
+merge_status: NOT_PERFORMED
