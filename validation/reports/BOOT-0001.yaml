@@ -25,6 +25,9 @@ stage_12_checks:
   open_questions: PASS
   forbidden_references: PASS
   main_unchanged: PASS
+stage_13_review_package: validation/reports/STAGE-13-review.yaml
+stage_13_merge_readiness: READY_FOR_MERGE_REVIEW
+stage_13_approval: NOT_GRANTED
 objects_initialized: 11
 initial_revisions: 11
 refined_candidate_revisions: 11
