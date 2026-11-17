@@ -30,5 +30,6 @@ open_questions:
   - Q-AUTHORITY-001
   - Q-SOURCE-REVISION-001
 next_required_input: establish source authority and exact revision basis before content-derived candidate work
-main_unchanged: true
-merge_status: NOT_PERFORMED
+main_unchanged_before_merge: true
+merge_status: MERGED
+merge_commit: a3bed706e1f5a48d86a359d2cd6c3b83ec354bca
