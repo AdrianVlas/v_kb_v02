@@ -4,7 +4,7 @@
   "inventory_scope": "Approved scope: target PDF/TXT plus src_C and src_C/inc",
   "content_analysis": "NOT_PERFORMED",
   "provenance_status": "RECORDED_LOCATION_ONLY",
-  "revision_basis_status": "NOT_ESTABLISHED",
+  "revision_basis_status": "ESTABLISHED_FOR_INVENTORIED_SCOPE",
   "authority_status": "NOT_ESTABLISHED",
   "open_questions": [
     "Q-AUTHORITY-001",
@@ -25,7 +25,11 @@
       "shared": false,
       "can_download": true,
       "can_list_children": false,
-      "source_visibility_status": "not_shared"
+      "source_visibility_status": "not_shared",
+      "drive_revision_id": "0B8TOVMYRnG_qcGZNc2RrMTBnVHI0M0pnQlBaQ2ZYakxWZ2kwPQ",
+      "previous_drive_revision_id": null,
+      "revision_count": 1,
+      "revision_basis_status": "ESTABLISHED_CURRENT_DRIVE_REVISION_ID"
     },
     {
       "id": "1PKbk8ITMU5vDIhqRb5Gy4g0r4dhxSzWW",
@@ -40,7 +44,11 @@
       "shared": false,
       "can_download": true,
       "can_list_children": false,
-      "source_visibility_status": "not_shared"
+      "source_visibility_status": "not_shared",
+      "drive_revision_id": "0B8TOVMYRnG_qcEtUR3lwUXBlWDhoVjFnbERLc0RDaTdPbktzPQ",
+      "previous_drive_revision_id": null,
+      "revision_count": 1,
+      "revision_basis_status": "ESTABLISHED_CURRENT_DRIVE_REVISION_ID"
     }
   ],
   "src_C": {
@@ -74,7 +82,11 @@
         "shared": false,
         "can_download": true,
         "can_list_children": false,
-        "source_visibility_status": "not_shared"
+        "source_visibility_status": "not_shared",
+        "drive_revision_id": "0B8TOVMYRnG_qMmFnY0F4M3dzeE9RUTUxcVV4clVSb3V6bnVJPQ",
+        "previous_drive_revision_id": null,
+        "revision_count": 1,
+        "revision_basis_status": "ESTABLISHED_CURRENT_DRIVE_REVISION_ID"
       },
       {
         "id": "1POXYSphoI4XR5Vn9rkCRVoCd6T9RbOHx",
@@ -89,7 +101,11 @@
         "shared": false,
         "can_download": true,
         "can_list_children": false,
-        "source_visibility_status": "not_shared"
+        "source_visibility_status": "not_shared",
+        "drive_revision_id": "0B8TOVMYRnG_qWUdoZEkycTZxY1o5aHFYT24xOXRrUVVBT2IwPQ",
+        "previous_drive_revision_id": null,
+        "revision_count": 1,
+        "revision_basis_status": "ESTABLISHED_CURRENT_DRIVE_REVISION_ID"
       },
       {
         "id": "1kjI4FFGMe6T_Qpy9tIbMEEw9F87ZdJpg",
@@ -104,7 +120,11 @@
         "shared": false,
         "can_download": true,
         "can_list_children": false,
-        "source_visibility_status": "not_shared"
+        "source_visibility_status": "not_shared",
+        "drive_revision_id": "0B8TOVMYRnG_qSVZJVC9jMk9qbS80V2E4VG1McUtVUEdUaTRzPQ",
+        "previous_drive_revision_id": null,
+        "revision_count": 1,
+        "revision_basis_status": "ESTABLISHED_CURRENT_DRIVE_REVISION_ID"
       },
       {
         "id": "1JNfVoF5taCUKMOj8xS_xf0H1Dx5YiiAI",
@@ -119,7 +139,11 @@
         "shared": false,
         "can_download": true,
         "can_list_children": false,
-        "source_visibility_status": "not_shared"
+        "source_visibility_status": "not_shared",
+        "drive_revision_id": "0B8TOVMYRnG_qd1piNUE0b3FEODYrbDA0Mk0xc24zYnJ1bXF3PQ",
+        "previous_drive_revision_id": null,
+        "revision_count": 1,
+        "revision_basis_status": "ESTABLISHED_CURRENT_DRIVE_REVISION_ID"
       },
       {
         "id": "1I-a1rvvofy2crfctphk4MaGNMfd9aD1I",
@@ -134,7 +158,11 @@
         "shared": false,
         "can_download": true,
         "can_list_children": false,
-        "source_visibility_status": "not_shared"
+        "source_visibility_status": "not_shared",
+        "drive_revision_id": "0B8TOVMYRnG_qNVVTQzh6N3hxVXkyY3VQdjR5ZmRkL3J4emZJPQ",
+        "previous_drive_revision_id": null,
+        "revision_count": 1,
+        "revision_basis_status": "ESTABLISHED_CURRENT_DRIVE_REVISION_ID"
       },
       {
         "id": "1xrFSYGjbIiDk57kLg4a5mH1vndxg-bDt",
@@ -149,7 +177,11 @@
         "shared": false,
         "can_download": true,
         "can_list_children": false,
-        "source_visibility_status": "not_shared"
+        "source_visibility_status": "not_shared",
+        "drive_revision_id": "0B8TOVMYRnG_qajNvZnNlelpTWG9xRWc3Rm1BVGZCQndNL2FnPQ",
+        "previous_drive_revision_id": null,
+        "revision_count": 1,
+        "revision_basis_status": "ESTABLISHED_CURRENT_DRIVE_REVISION_ID"
       },
       {
         "id": "1Y8ZxGoAkadDAvXw1eSjcNEv01yZaICAt",
@@ -164,7 +196,11 @@
         "shared": false,
         "can_download": true,
         "can_list_children": false,
-        "source_visibility_status": "not_shared"
+        "source_visibility_status": "not_shared",
+        "drive_revision_id": "0B8TOVMYRnG_qK0pqLzF3clkxYmQ1d3h1ODBMOUluM0RObWlFPQ",
+        "previous_drive_revision_id": null,
+        "revision_count": 1,
+        "revision_basis_status": "ESTABLISHED_CURRENT_DRIVE_REVISION_ID"
       },
       {
         "id": "1NY2pL9wxJrEkUoMinHysL_-fCvYYrEaj",
@@ -179,7 +215,11 @@
         "shared": false,
         "can_download": true,
         "can_list_children": false,
-        "source_visibility_status": "not_shared"
+        "source_visibility_status": "not_shared",
+        "drive_revision_id": "0B8TOVMYRnG_qdzd6S2txOUJ0eDMyU1MrNnI1S0RuNHU0Y2RvPQ",
+        "previous_drive_revision_id": null,
+        "revision_count": 1,
+        "revision_basis_status": "ESTABLISHED_CURRENT_DRIVE_REVISION_ID"
       },
       {
         "id": "1mDAtz3eCUjMpXHbCEIt5mKkqLCYBvrWf",
@@ -194,7 +234,11 @@
         "shared": false,
         "can_download": true,
         "can_list_children": false,
-        "source_visibility_status": "not_shared"
+        "source_visibility_status": "not_shared",
+        "drive_revision_id": "0B8TOVMYRnG_qMkFkblhHa2VWcGlrZWU5VGRIYS9zOXNZUTlRPQ",
+        "previous_drive_revision_id": null,
+        "revision_count": 1,
+        "revision_basis_status": "ESTABLISHED_CURRENT_DRIVE_REVISION_ID"
       },
       {
         "id": "1dpxQWVq3CKm8sKKGGeiDtIXxe9hTN_aS",
@@ -209,7 +253,11 @@
         "shared": false,
         "can_download": true,
         "can_list_children": false,
-        "source_visibility_status": "not_shared"
+        "source_visibility_status": "not_shared",
+        "drive_revision_id": "0B8TOVMYRnG_qYWlUWmswZFdlcjVvSDN4amxPMFRkVFd5bVVBPQ",
+        "previous_drive_revision_id": null,
+        "revision_count": 1,
+        "revision_basis_status": "ESTABLISHED_CURRENT_DRIVE_REVISION_ID"
       },
       {
         "id": "1Bq8NOymj1MEGpjMyuQ0Yqy0oqXXb02mW",
@@ -224,7 +272,11 @@
         "shared": false,
         "can_download": true,
         "can_list_children": false,
-        "source_visibility_status": "not_shared"
+        "source_visibility_status": "not_shared",
+        "drive_revision_id": "0B8TOVMYRnG_qc2lVSlJvUHpQNWltZ1MyZUFJMy91QWpoOUlvPQ",
+        "previous_drive_revision_id": null,
+        "revision_count": 1,
+        "revision_basis_status": "ESTABLISHED_CURRENT_DRIVE_REVISION_ID"
       },
       {
         "id": "1AarIsWZME7k8atNvPhaqMQIl-eZRrPGr",
@@ -239,7 +291,11 @@
         "shared": false,
         "can_download": true,
         "can_list_children": false,
-        "source_visibility_status": "not_shared"
+        "source_visibility_status": "not_shared",
+        "drive_revision_id": "0B8TOVMYRnG_qQXYwbUR0NGIvQWVZL3JLWWJrZVZsdHU1dHRjPQ",
+        "previous_drive_revision_id": null,
+        "revision_count": 1,
+        "revision_basis_status": "ESTABLISHED_CURRENT_DRIVE_REVISION_ID"
       },
       {
         "id": "1l5zpMWEqfrg6rxw7TeTQneWuPi_U76eK",
@@ -254,7 +310,11 @@
         "shared": false,
         "can_download": true,
         "can_list_children": false,
-        "source_visibility_status": "not_shared"
+        "source_visibility_status": "not_shared",
+        "drive_revision_id": "0B8TOVMYRnG_qTUFQcUtDcWgxWXczUFR6dnd2YURLRUpxVjR3PQ",
+        "previous_drive_revision_id": null,
+        "revision_count": 1,
+        "revision_basis_status": "ESTABLISHED_CURRENT_DRIVE_REVISION_ID"
       },
       {
         "id": "1s3TVzw02PofqA9YiGcCwkFmdn2X17LqT",
@@ -269,7 +329,11 @@
         "shared": false,
         "can_download": true,
         "can_list_children": false,
-        "source_visibility_status": "not_shared"
+        "source_visibility_status": "not_shared",
+        "drive_revision_id": "0B8TOVMYRnG_qc29mbTF3UUFOZW0xRm9qaU4vRHVIN3FDeDBzPQ",
+        "previous_drive_revision_id": null,
+        "revision_count": 1,
+        "revision_basis_status": "ESTABLISHED_CURRENT_DRIVE_REVISION_ID"
       },
       {
         "id": "1wXt3fkNgRrkTuz8x_MEUUvtjkwSLkP3m",
@@ -284,7 +348,11 @@
         "shared": false,
         "can_download": true,
         "can_list_children": false,
-        "source_visibility_status": "not_shared"
+        "source_visibility_status": "not_shared",
+        "drive_revision_id": "0B8TOVMYRnG_qNjZJTUQxVjJFeWVMeElXMXp3L2hHWXdiS3RJPQ",
+        "previous_drive_revision_id": null,
+        "revision_count": 1,
+        "revision_basis_status": "ESTABLISHED_CURRENT_DRIVE_REVISION_ID"
       },
       {
         "id": "1jyAqfdgcKgTeicENqphLh41cswAhdonN",
@@ -299,7 +367,11 @@
         "shared": false,
         "can_download": true,
         "can_list_children": false,
-        "source_visibility_status": "not_shared"
+        "source_visibility_status": "not_shared",
+        "drive_revision_id": "0B8TOVMYRnG_qWVR4N1dMZ05DMWN4MHdkOXRUQmE4c21vL3djPQ",
+        "previous_drive_revision_id": null,
+        "revision_count": 1,
+        "revision_basis_status": "ESTABLISHED_CURRENT_DRIVE_REVISION_ID"
       },
       {
         "id": "1im_UKfcaOxRrzourithHI7jRtvD_d96_",
@@ -314,7 +386,11 @@
         "shared": false,
         "can_download": true,
         "can_list_children": false,
-        "source_visibility_status": "not_shared"
+        "source_visibility_status": "not_shared",
+        "drive_revision_id": "0B8TOVMYRnG_qZUpZK3dGM1lWaVhndnZIS1ptRnJDZStPUm9NPQ",
+        "previous_drive_revision_id": null,
+        "revision_count": 1,
+        "revision_basis_status": "ESTABLISHED_CURRENT_DRIVE_REVISION_ID"
       },
       {
         "id": "1krZej-uwh5o8yMEv4CPCLKUqmrrdzJEh",
@@ -329,7 +405,11 @@
         "shared": false,
         "can_download": true,
         "can_list_children": false,
-        "source_visibility_status": "not_shared"
+        "source_visibility_status": "not_shared",
+        "drive_revision_id": "0B8TOVMYRnG_qOGNubTlnY3l5K1JaVUVlSjF6bEhkODJaZHVFPQ",
+        "previous_drive_revision_id": null,
+        "revision_count": 1,
+        "revision_basis_status": "ESTABLISHED_CURRENT_DRIVE_REVISION_ID"
       },
       {
         "id": "1p1rafL_E266P2pYyyEsEEdye7zQJuvex",
@@ -344,7 +424,11 @@
         "shared": false,
         "can_download": true,
         "can_list_children": false,
-        "source_visibility_status": "not_shared"
+        "source_visibility_status": "not_shared",
+        "drive_revision_id": "0B8TOVMYRnG_qYnRKMUhuckFoNktraTBZVm5RWGp2KzFtR2JjPQ",
+        "previous_drive_revision_id": null,
+        "revision_count": 1,
+        "revision_basis_status": "ESTABLISHED_CURRENT_DRIVE_REVISION_ID"
       },
       {
         "id": "1p-qNFE-vG7StoalIiFxsfjxQh1CrvHAn",
@@ -359,7 +443,11 @@
         "shared": false,
         "can_download": true,
         "can_list_children": false,
-        "source_visibility_status": "not_shared"
+        "source_visibility_status": "not_shared",
+        "drive_revision_id": "0B8TOVMYRnG_qNFhqQlpDMW56UWhoS2k0bGUxR2xpL3VTZFZRPQ",
+        "previous_drive_revision_id": null,
+        "revision_count": 1,
+        "revision_basis_status": "ESTABLISHED_CURRENT_DRIVE_REVISION_ID"
       },
       {
         "id": "1nXllW2bPmPemKZFOpGuZwiXKfluLWSxo",
@@ -374,7 +462,11 @@
         "shared": false,
         "can_download": true,
         "can_list_children": false,
-        "source_visibility_status": "not_shared"
+        "source_visibility_status": "not_shared",
+        "drive_revision_id": "0B8TOVMYRnG_qTmNQV0FEb1crNFRHRjBRdUNoUmVwdFNSWU1BPQ",
+        "previous_drive_revision_id": null,
+        "revision_count": 1,
+        "revision_basis_status": "ESTABLISHED_CURRENT_DRIVE_REVISION_ID"
       },
       {
         "id": "13UfdtKr-TkisUv2rw5Dr4koJItOwT5jk",
@@ -389,7 +481,11 @@
         "shared": false,
         "can_download": true,
         "can_list_children": false,
-        "source_visibility_status": "not_shared"
+        "source_visibility_status": "not_shared",
+        "drive_revision_id": "0B8TOVMYRnG_qTlhaU2Jjd1BUNFNLdzZnMWFOSFhEdGxydEMwPQ",
+        "previous_drive_revision_id": null,
+        "revision_count": 1,
+        "revision_basis_status": "ESTABLISHED_CURRENT_DRIVE_REVISION_ID"
       },
       {
         "id": "1mvB6H10nyDjdlZhVMIZ4XEdwy-ZVsb8l",
@@ -404,7 +500,11 @@
         "shared": false,
         "can_download": true,
         "can_list_children": false,
-        "source_visibility_status": "not_shared"
+        "source_visibility_status": "not_shared",
+        "drive_revision_id": "0B8TOVMYRnG_qeE5jTExodkUwcGtCR01SL2trM0I1a1ZpYlNnPQ",
+        "previous_drive_revision_id": null,
+        "revision_count": 1,
+        "revision_basis_status": "ESTABLISHED_CURRENT_DRIVE_REVISION_ID"
       },
       {
         "id": "1QiAPsJNmGXBXuAh9YlDQIK3zKf7y4Ttw",
@@ -419,7 +519,11 @@
         "shared": false,
         "can_download": true,
         "can_list_children": false,
-        "source_visibility_status": "not_shared"
+        "source_visibility_status": "not_shared",
+        "drive_revision_id": "0B8TOVMYRnG_qTUtUM1k3bGtGbFp0UktBY3pzTGluSkw4cHJ3PQ",
+        "previous_drive_revision_id": null,
+        "revision_count": 1,
+        "revision_basis_status": "ESTABLISHED_CURRENT_DRIVE_REVISION_ID"
       },
       {
         "id": "1HFV8EKIxjlhyvWCx5vl-jRG2usSnt5Nq",
@@ -434,7 +538,11 @@
         "shared": false,
         "can_download": true,
         "can_list_children": false,
-        "source_visibility_status": "not_shared"
+        "source_visibility_status": "not_shared",
+        "drive_revision_id": "0B8TOVMYRnG_qZUYrVUJEeGpEdkxoTTVvOW9VS1dnL2VhVTFFPQ",
+        "previous_drive_revision_id": null,
+        "revision_count": 1,
+        "revision_basis_status": "ESTABLISHED_CURRENT_DRIVE_REVISION_ID"
       },
       {
         "id": "1hVmsLu8HXT81XvuTvTW1sOCbYLBAqf0Z",
@@ -449,7 +557,11 @@
         "shared": false,
         "can_download": true,
         "can_list_children": false,
-        "source_visibility_status": "not_shared"
+        "source_visibility_status": "not_shared",
+        "drive_revision_id": "0B8TOVMYRnG_qMnBHc0hmeStOLzdOVFNnUTJjMnVtLy9rajc4PQ",
+        "previous_drive_revision_id": null,
+        "revision_count": 1,
+        "revision_basis_status": "ESTABLISHED_CURRENT_DRIVE_REVISION_ID"
       },
       {
         "id": "1ucSOslha04LLJLIkV0kVjsawvlRzNy9d",
@@ -464,7 +576,11 @@
         "shared": false,
         "can_download": true,
         "can_list_children": false,
-        "source_visibility_status": "not_shared"
+        "source_visibility_status": "not_shared",
+        "drive_revision_id": "0B8TOVMYRnG_qVitNZmNyNmJwSTFuOUxrY0xmdEpMSkFKaENFPQ",
+        "previous_drive_revision_id": null,
+        "revision_count": 1,
+        "revision_basis_status": "ESTABLISHED_CURRENT_DRIVE_REVISION_ID"
       },
       {
         "id": "1gcw6SQUu9w3-n25WlCykQp7VlA6k4p-Z",
@@ -479,7 +595,11 @@
         "shared": false,
         "can_download": true,
         "can_list_children": false,
-        "source_visibility_status": "not_shared"
+        "source_visibility_status": "not_shared",
+        "drive_revision_id": "0B8TOVMYRnG_qUzI3WGMyb1RBYTRRR0ErcEdxNnVpSTdONFI4PQ",
+        "previous_drive_revision_id": null,
+        "revision_count": 1,
+        "revision_basis_status": "ESTABLISHED_CURRENT_DRIVE_REVISION_ID"
       },
       {
         "id": "1qenuoitDMUyFKYQ_OgVeDEt3xh5N2v1_",
@@ -494,7 +614,11 @@
         "shared": false,
         "can_download": true,
         "can_list_children": false,
-        "source_visibility_status": "not_shared"
+        "source_visibility_status": "not_shared",
+        "drive_revision_id": "0B8TOVMYRnG_qSSs3cmpDanJXTUtvTExDQWZ1OEp2c3djcmdJPQ",
+        "previous_drive_revision_id": null,
+        "revision_count": 1,
+        "revision_basis_status": "ESTABLISHED_CURRENT_DRIVE_REVISION_ID"
       },
       {
         "id": "1WkItw9ELwmhXe4IPDFdUGJnhLmZLHDvt",
@@ -509,7 +633,11 @@
         "shared": false,
         "can_download": true,
         "can_list_children": false,
-        "source_visibility_status": "not_shared"
+        "source_visibility_status": "not_shared",
+        "drive_revision_id": "0B8TOVMYRnG_qeTlOTmRlRzIwbXg2VTFvbCtBdGFzclFtbnljPQ",
+        "previous_drive_revision_id": null,
+        "revision_count": 1,
+        "revision_basis_status": "ESTABLISHED_CURRENT_DRIVE_REVISION_ID"
       },
       {
         "id": "1K98Up95boipciQxNrF_35aMVfhRed68U",
@@ -524,7 +652,11 @@
         "shared": false,
         "can_download": true,
         "can_list_children": false,
-        "source_visibility_status": "not_shared"
+        "source_visibility_status": "not_shared",
+        "drive_revision_id": "0B8TOVMYRnG_qemJIQ0Yycmw2Y3ovNEtsNmJ4bmkwQ3BuREZZPQ",
+        "previous_drive_revision_id": null,
+        "revision_count": 1,
+        "revision_basis_status": "ESTABLISHED_CURRENT_DRIVE_REVISION_ID"
       },
       {
         "id": "1NUgjRUJNVOfY8KrS6bYyZ6f1AFQDS22z",
@@ -539,7 +671,11 @@
         "shared": false,
         "can_download": true,
         "can_list_children": false,
-        "source_visibility_status": "not_shared"
+        "source_visibility_status": "not_shared",
+        "drive_revision_id": "0B8TOVMYRnG_qKzFsNnJzUFg2Z0Z6OXlnaEQ0cnpJa0orMHdZPQ",
+        "previous_drive_revision_id": null,
+        "revision_count": 1,
+        "revision_basis_status": "ESTABLISHED_CURRENT_DRIVE_REVISION_ID"
       },
       {
         "id": "18Q1THcYlS9EG67_-FbmyMLEbx_BrlnJW",
@@ -554,7 +690,11 @@
         "shared": false,
         "can_download": true,
         "can_list_children": false,
-        "source_visibility_status": "not_shared"
+        "source_visibility_status": "not_shared",
+        "drive_revision_id": "0B8TOVMYRnG_qRGxkdnRiNGgvbGloalBSeXR5bmtsaFhkbG0wPQ",
+        "previous_drive_revision_id": null,
+        "revision_count": 1,
+        "revision_basis_status": "ESTABLISHED_CURRENT_DRIVE_REVISION_ID"
       },
       {
         "id": "1lqAKFLmiufg9PENpzY-8tvJKUgJcs4uk",
@@ -569,7 +709,11 @@
         "shared": false,
         "can_download": true,
         "can_list_children": false,
-        "source_visibility_status": "not_shared"
+        "source_visibility_status": "not_shared",
+        "drive_revision_id": "0B8TOVMYRnG_qQTBESHkwcnRPcEw2YTZWZTgxRjJRNTVMNUdBPQ",
+        "previous_drive_revision_id": null,
+        "revision_count": 1,
+        "revision_basis_status": "ESTABLISHED_CURRENT_DRIVE_REVISION_ID"
       },
       {
         "id": "1TsTC5T_Ne2-CbUvCC1tsFYbIBEoWtTEg",
@@ -584,7 +728,11 @@
         "shared": false,
         "can_download": true,
         "can_list_children": false,
-        "source_visibility_status": "not_shared"
+        "source_visibility_status": "not_shared",
+        "drive_revision_id": "0B8TOVMYRnG_qQ0FQeDQ2a3BRYUMwYmZIVHNTZzZFWlVsUW93PQ",
+        "previous_drive_revision_id": null,
+        "revision_count": 1,
+        "revision_basis_status": "ESTABLISHED_CURRENT_DRIVE_REVISION_ID"
       },
       {
         "id": "1z17FtNlyFMs4HozUYuxyIKv5POQiJVqd",
@@ -599,7 +747,11 @@
         "shared": false,
         "can_download": true,
         "can_list_children": false,
-        "source_visibility_status": "not_shared"
+        "source_visibility_status": "not_shared",
+        "drive_revision_id": "0B8TOVMYRnG_qRlRXVVduK0xtbXk1UEEraEptS3NzSTZwRDVjPQ",
+        "previous_drive_revision_id": null,
+        "revision_count": 1,
+        "revision_basis_status": "ESTABLISHED_CURRENT_DRIVE_REVISION_ID"
       },
       {
         "id": "1lZXyCSpgurtX2H4UA8CY4fdHhHi4zpFJ",
@@ -614,7 +766,11 @@
         "shared": false,
         "can_download": true,
         "can_list_children": false,
-        "source_visibility_status": "not_shared"
+        "source_visibility_status": "not_shared",
+        "drive_revision_id": "0B8TOVMYRnG_qcnQ3OTJrL3ZPSWFwMmM2cGs1d1NRT2lrQzBBPQ",
+        "previous_drive_revision_id": null,
+        "revision_count": 1,
+        "revision_basis_status": "ESTABLISHED_CURRENT_DRIVE_REVISION_ID"
       },
       {
         "id": "1ap3xG_dkW1tVWALOzWK2u_nc6uGelJhL",
@@ -629,7 +785,11 @@
         "shared": false,
         "can_download": true,
         "can_list_children": false,
-        "source_visibility_status": "not_shared"
+        "source_visibility_status": "not_shared",
+        "drive_revision_id": "0B8TOVMYRnG_qUVI4bHVaR2NFYzBGa21zOE12M1hvWUNYRHI4PQ",
+        "previous_drive_revision_id": null,
+        "revision_count": 1,
+        "revision_basis_status": "ESTABLISHED_CURRENT_DRIVE_REVISION_ID"
       },
       {
         "id": "1CQmUnKG0VlJbJAbzaKy6_IScBNNcEMdX",
@@ -644,7 +804,11 @@
         "shared": false,
         "can_download": true,
         "can_list_children": false,
-        "source_visibility_status": "not_shared"
+        "source_visibility_status": "not_shared",
+        "drive_revision_id": "0B8TOVMYRnG_qYkRScjY4Tm9nOTdVZVNONjdOMi9iZGZVK0djPQ",
+        "previous_drive_revision_id": null,
+        "revision_count": 1,
+        "revision_basis_status": "ESTABLISHED_CURRENT_DRIVE_REVISION_ID"
       },
       {
         "id": "1uwKInkDohAfSCSpwojxlQBvrOIjho0ci",
@@ -659,7 +823,11 @@
         "shared": false,
         "can_download": true,
         "can_list_children": false,
-        "source_visibility_status": "not_shared"
+        "source_visibility_status": "not_shared",
+        "drive_revision_id": "0B8TOVMYRnG_qNGxhY0ZKanhaZkU2Y1YzL1dVU0hlYncxVk5BPQ",
+        "previous_drive_revision_id": null,
+        "revision_count": 1,
+        "revision_basis_status": "ESTABLISHED_CURRENT_DRIVE_REVISION_ID"
       },
       {
         "id": "10lb21_ytQ5NbKZASmdzHSO3SbC7rXhe1",
@@ -674,7 +842,11 @@
         "shared": false,
         "can_download": true,
         "can_list_children": false,
-        "source_visibility_status": "not_shared"
+        "source_visibility_status": "not_shared",
+        "drive_revision_id": "0B8TOVMYRnG_qQkcxdStYWnNGMGlwLzNTWjdvbnA0OElEbUs0PQ",
+        "previous_drive_revision_id": null,
+        "revision_count": 1,
+        "revision_basis_status": "ESTABLISHED_CURRENT_DRIVE_REVISION_ID"
       },
       {
         "id": "1axP6V0coSbKQKuYtzmbkPlbNUaF-3Ggx",
@@ -689,7 +861,11 @@
         "shared": false,
         "can_download": true,
         "can_list_children": false,
-        "source_visibility_status": "not_shared"
+        "source_visibility_status": "not_shared",
+        "drive_revision_id": "0B8TOVMYRnG_qWnZCRWdCOEtNQWErM2ZVK1hJZDBJci96KzRZPQ",
+        "previous_drive_revision_id": null,
+        "revision_count": 1,
+        "revision_basis_status": "ESTABLISHED_CURRENT_DRIVE_REVISION_ID"
       },
       {
         "id": "17lKzzEgUb8q3tm07u9mfy_BZc1IXit3D",
@@ -704,7 +880,11 @@
         "shared": false,
         "can_download": true,
         "can_list_children": false,
-        "source_visibility_status": "not_shared"
+        "source_visibility_status": "not_shared",
+        "drive_revision_id": "0B8TOVMYRnG_qZUJUZll4UDhsN1ZDQ3Nrb3RjUjRxMWRYS0lFPQ",
+        "previous_drive_revision_id": null,
+        "revision_count": 1,
+        "revision_basis_status": "ESTABLISHED_CURRENT_DRIVE_REVISION_ID"
       },
       {
         "id": "1h_Ske0M6jFimxmp5Spvv3B7I3-Af8w-Q",
@@ -719,7 +899,11 @@
         "shared": false,
         "can_download": true,
         "can_list_children": false,
-        "source_visibility_status": "not_shared"
+        "source_visibility_status": "not_shared",
+        "drive_revision_id": "0B8TOVMYRnG_qYWVsU0xLSCs2TTNjQW5rRFg2QStnd3puc0pjPQ",
+        "previous_drive_revision_id": null,
+        "revision_count": 1,
+        "revision_basis_status": "ESTABLISHED_CURRENT_DRIVE_REVISION_ID"
       },
       {
         "id": "15YhDnSnVqNiN81rIUWGlQj5wqDijOnUw",
@@ -734,7 +918,11 @@
         "shared": false,
         "can_download": true,
         "can_list_children": false,
-        "source_visibility_status": "not_shared"
+        "source_visibility_status": "not_shared",
+        "drive_revision_id": "0B8TOVMYRnG_qM0xDVDVFOVZJYlRZbFlhZXZCOTBqVVRMMlA4PQ",
+        "previous_drive_revision_id": null,
+        "revision_count": 1,
+        "revision_basis_status": "ESTABLISHED_CURRENT_DRIVE_REVISION_ID"
       },
       {
         "id": "1kQA1yNlz3WAMpPKBF_H3bnmntQeC7CP2",
@@ -749,7 +937,11 @@
         "shared": false,
         "can_download": true,
         "can_list_children": false,
-        "source_visibility_status": "not_shared"
+        "source_visibility_status": "not_shared",
+        "drive_revision_id": "0B8TOVMYRnG_qT3dBY0JOODdkeDdKSkI2eSt6dW5pY0l4em8wPQ",
+        "previous_drive_revision_id": null,
+        "revision_count": 1,
+        "revision_basis_status": "ESTABLISHED_CURRENT_DRIVE_REVISION_ID"
       },
       {
         "id": "1oxMJ1ofHusGj2ipwsOgDDhfpQ6sow1pt",
@@ -764,7 +956,11 @@
         "shared": false,
         "can_download": true,
         "can_list_children": false,
-        "source_visibility_status": "not_shared"
+        "source_visibility_status": "not_shared",
+        "drive_revision_id": "0B8TOVMYRnG_qUllndng1UEVZTnlvWnFwM0FIcjZvbzRIMFhJPQ",
+        "previous_drive_revision_id": null,
+        "revision_count": 1,
+        "revision_basis_status": "ESTABLISHED_CURRENT_DRIVE_REVISION_ID"
       },
       {
         "id": "1OzCim8VZxZoramWLLvte2nqemsJT3XfW",
@@ -779,7 +975,11 @@
         "shared": false,
         "can_download": true,
         "can_list_children": false,
-        "source_visibility_status": "not_shared"
+        "source_visibility_status": "not_shared",
+        "drive_revision_id": "0B8TOVMYRnG_qMWE1R2NORnhlTmZXMHR5eG9QMU9CQ1ZSbHE0PQ",
+        "previous_drive_revision_id": null,
+        "revision_count": 1,
+        "revision_basis_status": "ESTABLISHED_CURRENT_DRIVE_REVISION_ID"
       },
       {
         "id": "1YF6KakHsXF8qjiVia8ZcFF0_MlqLiEbx",
@@ -794,7 +994,11 @@
         "shared": false,
         "can_download": true,
         "can_list_children": false,
-        "source_visibility_status": "not_shared"
+        "source_visibility_status": "not_shared",
+        "drive_revision_id": "0B8TOVMYRnG_qRDAwNllEeklVcFl5OTBPdjdYRXVZcVF2V21NPQ",
+        "previous_drive_revision_id": null,
+        "revision_count": 1,
+        "revision_basis_status": "ESTABLISHED_CURRENT_DRIVE_REVISION_ID"
       },
       {
         "id": "1VT8l30VN46CfAWzCQXR0buB1b0aXMVJe",
@@ -809,7 +1013,11 @@
         "shared": false,
         "can_download": true,
         "can_list_children": false,
-        "source_visibility_status": "not_shared"
+        "source_visibility_status": "not_shared",
+        "drive_revision_id": "0B8TOVMYRnG_qeEpDeHdjVUo2VS9SVk1saVBIQ3pjN2FxcHJJPQ",
+        "previous_drive_revision_id": null,
+        "revision_count": 1,
+        "revision_basis_status": "ESTABLISHED_CURRENT_DRIVE_REVISION_ID"
       }
     ]
   },
@@ -844,7 +1052,11 @@
         "shared": false,
         "can_download": true,
         "can_list_children": false,
-        "source_visibility_status": "not_shared"
+        "source_visibility_status": "not_shared",
+        "drive_revision_id": "0B8TOVMYRnG_qT1JkYVlhSERuZXhiZ0lLRFBQMURiZkk4Z2gwPQ",
+        "previous_drive_revision_id": null,
+        "revision_count": 1,
+        "revision_basis_status": "ESTABLISHED_CURRENT_DRIVE_REVISION_ID"
       },
       {
         "id": "1wfO3rcJUzk6QgLQCPJvFvkXniaLx_g99",
@@ -859,7 +1071,11 @@
         "shared": false,
         "can_download": true,
         "can_list_children": false,
-        "source_visibility_status": "not_shared"
+        "source_visibility_status": "not_shared",
+        "drive_revision_id": "0B8TOVMYRnG_qQXJzNnJscDZsanloVm9GR0luR1ZLZkV2UXo0PQ",
+        "previous_drive_revision_id": null,
+        "revision_count": 1,
+        "revision_basis_status": "ESTABLISHED_CURRENT_DRIVE_REVISION_ID"
       },
       {
         "id": "1vscuD-RYSPSgUajrFpUkp-V9uopl6vx4",
@@ -874,7 +1090,11 @@
         "shared": false,
         "can_download": true,
         "can_list_children": false,
-        "source_visibility_status": "not_shared"
+        "source_visibility_status": "not_shared",
+        "drive_revision_id": "0B8TOVMYRnG_qb0hFUC9IOERlVjkyV1Z1RHVZRE5IbFlHRE4wPQ",
+        "previous_drive_revision_id": null,
+        "revision_count": 1,
+        "revision_basis_status": "ESTABLISHED_CURRENT_DRIVE_REVISION_ID"
       },
       {
         "id": "1vU8Q0p0jcUw0_mWybjRObpD7bXejXvHd",
@@ -889,7 +1109,11 @@
         "shared": false,
         "can_download": true,
         "can_list_children": false,
-        "source_visibility_status": "not_shared"
+        "source_visibility_status": "not_shared",
+        "drive_revision_id": "0B8TOVMYRnG_qUVVodEhlMXpsSllnV29UWGNSQVJqa3E5TGVZPQ",
+        "previous_drive_revision_id": null,
+        "revision_count": 1,
+        "revision_basis_status": "ESTABLISHED_CURRENT_DRIVE_REVISION_ID"
       },
       {
         "id": "1ggcTDrRYPvaB82Va7vSGUNCbxUVby2qc",
@@ -904,7 +1128,11 @@
         "shared": false,
         "can_download": true,
         "can_list_children": false,
-        "source_visibility_status": "not_shared"
+        "source_visibility_status": "not_shared",
+        "drive_revision_id": "0B8TOVMYRnG_qeUpZcnBDSmNaWDZheDczeWhZb3J6UHNjSDNrPQ",
+        "previous_drive_revision_id": null,
+        "revision_count": 1,
+        "revision_basis_status": "ESTABLISHED_CURRENT_DRIVE_REVISION_ID"
       },
       {
         "id": "1dn7fO6urHU5aE5LsZfJd17K4aJaxEjn-",
@@ -919,7 +1147,11 @@
         "shared": false,
         "can_download": true,
         "can_list_children": false,
-        "source_visibility_status": "not_shared"
+        "source_visibility_status": "not_shared",
+        "drive_revision_id": "0B8TOVMYRnG_qd2NQY04xZnc2ZHc5STk2YmQvQU8zbkhGOGljPQ",
+        "previous_drive_revision_id": null,
+        "revision_count": 1,
+        "revision_basis_status": "ESTABLISHED_CURRENT_DRIVE_REVISION_ID"
       },
       {
         "id": "1xK5wDp41b9ydZtM7kMDw8GPUCegSQmAb",
@@ -934,7 +1166,11 @@
         "shared": false,
         "can_download": true,
         "can_list_children": false,
-        "source_visibility_status": "not_shared"
+        "source_visibility_status": "not_shared",
+        "drive_revision_id": "0B8TOVMYRnG_qZkdFeHBtelRoSWtXUTNaVkJLbExJYnVlSUJrPQ",
+        "previous_drive_revision_id": null,
+        "revision_count": 1,
+        "revision_basis_status": "ESTABLISHED_CURRENT_DRIVE_REVISION_ID"
       },
       {
         "id": "1fJrzSKdzmANvsWLe_cUHWmC-8QaYVLw2",
@@ -949,7 +1185,11 @@
         "shared": false,
         "can_download": true,
         "can_list_children": false,
-        "source_visibility_status": "not_shared"
+        "source_visibility_status": "not_shared",
+        "drive_revision_id": "0B8TOVMYRnG_qMFdCTjZia2JYNEQ3eWR4VGxsWlo3djZGSktNPQ",
+        "previous_drive_revision_id": null,
+        "revision_count": 1,
+        "revision_basis_status": "ESTABLISHED_CURRENT_DRIVE_REVISION_ID"
       },
       {
         "id": "12MH2MBup6MdsyuFyempx5eMeHuO2GEdG",
@@ -964,7 +1204,11 @@
         "shared": false,
         "can_download": true,
         "can_list_children": false,
-        "source_visibility_status": "not_shared"
+        "source_visibility_status": "not_shared",
+        "drive_revision_id": "0B8TOVMYRnG_qdzhIUG15bEFEcTJENlkra0hKaXVrK09KMElzPQ",
+        "previous_drive_revision_id": null,
+        "revision_count": 1,
+        "revision_basis_status": "ESTABLISHED_CURRENT_DRIVE_REVISION_ID"
       },
       {
         "id": "1cm0Q8AUTsAFzD3EePoKi7jRIqaNUQ8lp",
@@ -979,7 +1223,11 @@
         "shared": false,
         "can_download": true,
         "can_list_children": false,
-        "source_visibility_status": "not_shared"
+        "source_visibility_status": "not_shared",
+        "drive_revision_id": "0B8TOVMYRnG_qRjdhNUFQUHI3c2YxU2RGTFFqTE1Mb0NtSS9ZPQ",
+        "previous_drive_revision_id": null,
+        "revision_count": 1,
+        "revision_basis_status": "ESTABLISHED_CURRENT_DRIVE_REVISION_ID"
       },
       {
         "id": "1zOpMK-Nr_6d044-9g9d6iwjwiaW4teJJ",
@@ -994,7 +1242,11 @@
         "shared": false,
         "can_download": true,
         "can_list_children": false,
-        "source_visibility_status": "not_shared"
+        "source_visibility_status": "not_shared",
+        "drive_revision_id": "0B8TOVMYRnG_qQ3JnTlhVL3BCb0hDL1UzamFYTFREL0NHQURrPQ",
+        "previous_drive_revision_id": null,
+        "revision_count": 1,
+        "revision_basis_status": "ESTABLISHED_CURRENT_DRIVE_REVISION_ID"
       },
       {
         "id": "1CQGwZ4e1QVRk1CXIuzU1qo1nyVwXmy07",
@@ -1009,7 +1261,11 @@
         "shared": false,
         "can_download": true,
         "can_list_children": false,
-        "source_visibility_status": "not_shared"
+        "source_visibility_status": "not_shared",
+        "drive_revision_id": "0B8TOVMYRnG_qZXFqcldIeWxwQWJac0VPWUU4YlRWWmZLL0lFPQ",
+        "previous_drive_revision_id": null,
+        "revision_count": 1,
+        "revision_basis_status": "ESTABLISHED_CURRENT_DRIVE_REVISION_ID"
       },
       {
         "id": "10nJodrXTZBjMC-7SsT4eYuHttX1DSafl",
@@ -1024,7 +1280,11 @@
         "shared": false,
         "can_download": true,
         "can_list_children": false,
-        "source_visibility_status": "not_shared"
+        "source_visibility_status": "not_shared",
+        "drive_revision_id": "0B8TOVMYRnG_qWlpWbTIxSHBCbHNGdmhEdzJIcFVWRzNaWUYwPQ",
+        "previous_drive_revision_id": null,
+        "revision_count": 1,
+        "revision_basis_status": "ESTABLISHED_CURRENT_DRIVE_REVISION_ID"
       },
       {
         "id": "1Ym36XPLCZ_tiLp-t2BrZBiDhvotu_-Kk",
@@ -1039,7 +1299,11 @@
         "shared": false,
         "can_download": true,
         "can_list_children": false,
-        "source_visibility_status": "not_shared"
+        "source_visibility_status": "not_shared",
+        "drive_revision_id": "0B8TOVMYRnG_qN1NHVEFPc3BmQ1krWU9ac1RwL2YwN1pIenRNPQ",
+        "previous_drive_revision_id": null,
+        "revision_count": 1,
+        "revision_basis_status": "ESTABLISHED_CURRENT_DRIVE_REVISION_ID"
       },
       {
         "id": "1RRr3hQ2cTilkLC6OcwKdmdCIulffrNt9",
@@ -1054,7 +1318,11 @@
         "shared": false,
         "can_download": true,
         "can_list_children": false,
-        "source_visibility_status": "not_shared"
+        "source_visibility_status": "not_shared",
+        "drive_revision_id": "0B8TOVMYRnG_qU0YvN0tDQlZySVd3S0Q2T0FZenh1VFJFQ1JZPQ",
+        "previous_drive_revision_id": null,
+        "revision_count": 1,
+        "revision_basis_status": "ESTABLISHED_CURRENT_DRIVE_REVISION_ID"
       },
       {
         "id": "1Hu0E0eObrDBp-PzGC82FFuOW_2jScY2V",
@@ -1069,7 +1337,11 @@
         "shared": false,
         "can_download": true,
         "can_list_children": false,
-        "source_visibility_status": "not_shared"
+        "source_visibility_status": "not_shared",
+        "drive_revision_id": "0B8TOVMYRnG_qTU9NNWFHbG16Yk13a01TcUdjZXFqMnNWRGRnPQ",
+        "previous_drive_revision_id": null,
+        "revision_count": 1,
+        "revision_basis_status": "ESTABLISHED_CURRENT_DRIVE_REVISION_ID"
       },
       {
         "id": "19IVf-CSGrP9fBoNjTt_y1gEBzDyoWWFs",
@@ -1084,7 +1356,11 @@
         "shared": false,
         "can_download": true,
         "can_list_children": false,
-        "source_visibility_status": "not_shared"
+        "source_visibility_status": "not_shared",
+        "drive_revision_id": "0B8TOVMYRnG_qR2lvNTIzMHVqZnpMVXIvUkNrRE8wODlnTlBVPQ",
+        "previous_drive_revision_id": null,
+        "revision_count": 1,
+        "revision_basis_status": "ESTABLISHED_CURRENT_DRIVE_REVISION_ID"
       },
       {
         "id": "1-9wbd3AjzkT74MFy0EFzjpf6xZtM9rmr",
@@ -1099,7 +1375,11 @@
         "shared": false,
         "can_download": true,
         "can_list_children": false,
-        "source_visibility_status": "not_shared"
+        "source_visibility_status": "not_shared",
+        "drive_revision_id": "0B8TOVMYRnG_qeDdEQTlQb3F6QW5YN096Z0JRWUl1dmlZY3M4PQ",
+        "previous_drive_revision_id": null,
+        "revision_count": 1,
+        "revision_basis_status": "ESTABLISHED_CURRENT_DRIVE_REVISION_ID"
       },
       {
         "id": "12i221bFG1YB2ONFWuL_3bOLk9tYAmFG-",
@@ -1114,7 +1394,11 @@
         "shared": false,
         "can_download": true,
         "can_list_children": false,
-        "source_visibility_status": "not_shared"
+        "source_visibility_status": "not_shared",
+        "drive_revision_id": "0B8TOVMYRnG_qTkFZTVVWWjNSVW1VOHVrTXhIaVdnTGpUTjk0PQ",
+        "previous_drive_revision_id": null,
+        "revision_count": 1,
+        "revision_basis_status": "ESTABLISHED_CURRENT_DRIVE_REVISION_ID"
       },
       {
         "id": "1X0V79GDz5ARzqCwwZWddBZJ3M1_iQI52",
@@ -1129,7 +1413,11 @@
         "shared": false,
         "can_download": true,
         "can_list_children": false,
-        "source_visibility_status": "not_shared"
+        "source_visibility_status": "not_shared",
+        "drive_revision_id": "0B8TOVMYRnG_qa3BnTDE2cS9ScStaUHFQbm16Q1lDQ0dyUFp3PQ",
+        "previous_drive_revision_id": null,
+        "revision_count": 1,
+        "revision_basis_status": "ESTABLISHED_CURRENT_DRIVE_REVISION_ID"
       },
       {
         "id": "1qm3mZRJdiGhbhRK5j28u1kZoBNqaQLP0",
@@ -1144,7 +1432,11 @@
         "shared": false,
         "can_download": true,
         "can_list_children": false,
-        "source_visibility_status": "not_shared"
+        "source_visibility_status": "not_shared",
+        "drive_revision_id": "0B8TOVMYRnG_qQ0hROHhCa3lTNUExekJYTTNMZ242UlFNZllZPQ",
+        "previous_drive_revision_id": null,
+        "revision_count": 1,
+        "revision_basis_status": "ESTABLISHED_CURRENT_DRIVE_REVISION_ID"
       },
       {
         "id": "1amcD9wMjBCG4mCCp9Ndg7qks0Y6iDdGm",
@@ -1159,7 +1451,11 @@
         "shared": false,
         "can_download": true,
         "can_list_children": false,
-        "source_visibility_status": "not_shared"
+        "source_visibility_status": "not_shared",
+        "drive_revision_id": "0B8TOVMYRnG_qRkN6Vmx4bU5UbDJIemZRK0RRR2tkamg1TVhZPQ",
+        "previous_drive_revision_id": null,
+        "revision_count": 1,
+        "revision_basis_status": "ESTABLISHED_CURRENT_DRIVE_REVISION_ID"
       },
       {
         "id": "1W8-rZORnBaMafyIk6nTKwfRJ-AYAZIsR",
@@ -1174,7 +1470,11 @@
         "shared": false,
         "can_download": true,
         "can_list_children": false,
-        "source_visibility_status": "not_shared"
+        "source_visibility_status": "not_shared",
+        "drive_revision_id": "0B8TOVMYRnG_qY004Uk1kc2x3K1ZVWTl4NXo5cHVMV0RibFkwPQ",
+        "previous_drive_revision_id": null,
+        "revision_count": 1,
+        "revision_basis_status": "ESTABLISHED_CURRENT_DRIVE_REVISION_ID"
       },
       {
         "id": "1WZspSHWDcwtlIHOD7rWteXzZMh0vIeed",
@@ -1189,7 +1489,11 @@
         "shared": false,
         "can_download": true,
         "can_list_children": false,
-        "source_visibility_status": "not_shared"
+        "source_visibility_status": "not_shared",
+        "drive_revision_id": "0B8TOVMYRnG_qNW9La3dLRXZ4L25uQ212Qm9kcUpEZm5XWldVPQ",
+        "previous_drive_revision_id": null,
+        "revision_count": 1,
+        "revision_basis_status": "ESTABLISHED_CURRENT_DRIVE_REVISION_ID"
       },
       {
         "id": "1PH7zp4jGccG1PgWm2kRJS59Cqi7fV9X1",
@@ -1204,7 +1508,11 @@
         "shared": false,
         "can_download": true,
         "can_list_children": false,
-        "source_visibility_status": "not_shared"
+        "source_visibility_status": "not_shared",
+        "drive_revision_id": "0B8TOVMYRnG_qaTlObjFYOWc0S3EyVWFXcWNrSEtvRWtaeEZFPQ",
+        "previous_drive_revision_id": null,
+        "revision_count": 1,
+        "revision_basis_status": "ESTABLISHED_CURRENT_DRIVE_REVISION_ID"
       },
       {
         "id": "1pmEHGegjkqP_05ZodrMXIjlvxtFsHDUW",
@@ -1219,7 +1527,11 @@
         "shared": false,
         "can_download": true,
         "can_list_children": false,
-        "source_visibility_status": "not_shared"
+        "source_visibility_status": "not_shared",
+        "drive_revision_id": "0B8TOVMYRnG_qaEV3ZlJNUzNXZnBCTVdJb0pyRkRUSEQ2ZVBFPQ",
+        "previous_drive_revision_id": null,
+        "revision_count": 1,
+        "revision_basis_status": "ESTABLISHED_CURRENT_DRIVE_REVISION_ID"
       },
       {
         "id": "1kRxVvdR3bOxbhXsQPl4fpCkJVWPx84a_",
@@ -1234,7 +1546,11 @@
         "shared": false,
         "can_download": true,
         "can_list_children": false,
-        "source_visibility_status": "not_shared"
+        "source_visibility_status": "not_shared",
+        "drive_revision_id": "0B8TOVMYRnG_qU24zSHltd3RJajdMQWJicFF4dE91MFNTQnlJPQ",
+        "previous_drive_revision_id": null,
+        "revision_count": 1,
+        "revision_basis_status": "ESTABLISHED_CURRENT_DRIVE_REVISION_ID"
       },
       {
         "id": "1B7ZV9hytT_-E7VfuJ7pKVMtuRZhtTmlV",
@@ -1249,7 +1565,11 @@
         "shared": false,
         "can_download": true,
         "can_list_children": false,
-        "source_visibility_status": "not_shared"
+        "source_visibility_status": "not_shared",
+        "drive_revision_id": "0B8TOVMYRnG_qSi9OYlkxQ1dHR3NxTjlzNjFkbkY1RS9vVnpnPQ",
+        "previous_drive_revision_id": null,
+        "revision_count": 1,
+        "revision_basis_status": "ESTABLISHED_CURRENT_DRIVE_REVISION_ID"
       },
       {
         "id": "1Tw6U8c6Sg0KBW4W16_pCAZSpnGg76t85",
@@ -1264,7 +1584,11 @@
         "shared": false,
         "can_download": true,
         "can_list_children": false,
-        "source_visibility_status": "not_shared"
+        "source_visibility_status": "not_shared",
+        "drive_revision_id": "0B8TOVMYRnG_qaWQ0dXNsek9QTmw5aXh3clg1Rm0rblF3S1I0PQ",
+        "previous_drive_revision_id": null,
+        "revision_count": 1,
+        "revision_basis_status": "ESTABLISHED_CURRENT_DRIVE_REVISION_ID"
       },
       {
         "id": "1Cu-u1mXPgLdmph1-4HABnKyfAvmO8Mx4",
@@ -1279,7 +1603,11 @@
         "shared": false,
         "can_download": true,
         "can_list_children": false,
-        "source_visibility_status": "not_shared"
+        "source_visibility_status": "not_shared",
+        "drive_revision_id": "0B8TOVMYRnG_qaVdDam5KVnRsUjlQQU04NTVHWUt6VXp4dnJjPQ",
+        "previous_drive_revision_id": null,
+        "revision_count": 1,
+        "revision_basis_status": "ESTABLISHED_CURRENT_DRIVE_REVISION_ID"
       },
       {
         "id": "1WeajaVhKQqJHQHQu1UPCAFjo7eDBhDSJ",
@@ -1294,7 +1622,11 @@
         "shared": false,
         "can_download": true,
         "can_list_children": false,
-        "source_visibility_status": "not_shared"
+        "source_visibility_status": "not_shared",
+        "drive_revision_id": "0B8TOVMYRnG_qV3RWN1JIUlFQSUFrR1dGUEtMQkR2Ym4xYkwwPQ",
+        "previous_drive_revision_id": null,
+        "revision_count": 1,
+        "revision_basis_status": "ESTABLISHED_CURRENT_DRIVE_REVISION_ID"
       },
       {
         "id": "18dDa3s5gn21gM25vJ1cnkvRMQPYe-3RL",
@@ -1309,7 +1641,11 @@
         "shared": false,
         "can_download": true,
         "can_list_children": false,
-        "source_visibility_status": "not_shared"
+        "source_visibility_status": "not_shared",
+        "drive_revision_id": "0B8TOVMYRnG_qaEVvQ0srZm1wQkN6WGw3WWk4QVMySjF1WG1ZPQ",
+        "previous_drive_revision_id": null,
+        "revision_count": 1,
+        "revision_basis_status": "ESTABLISHED_CURRENT_DRIVE_REVISION_ID"
       },
       {
         "id": "1D0kMpzok0nPLcnYqekBi-hNXvSedZx_m",
@@ -1324,7 +1660,11 @@
         "shared": false,
         "can_download": true,
         "can_list_children": false,
-        "source_visibility_status": "not_shared"
+        "source_visibility_status": "not_shared",
+        "drive_revision_id": "0B8TOVMYRnG_qdUE4S04vU3htM2ZpVWk1clJYRVVYd29jTnRjPQ",
+        "previous_drive_revision_id": null,
+        "revision_count": 1,
+        "revision_basis_status": "ESTABLISHED_CURRENT_DRIVE_REVISION_ID"
       },
       {
         "id": "1nAVSU9JUop3pWxbLiJL_jftefm8cpQdp",
@@ -1339,7 +1679,11 @@
         "shared": false,
         "can_download": true,
         "can_list_children": false,
-        "source_visibility_status": "not_shared"
+        "source_visibility_status": "not_shared",
+        "drive_revision_id": "0B8TOVMYRnG_qSmJkd01IeVFqT0tGbU1JTHdRTVlkNnlwd1RBPQ",
+        "previous_drive_revision_id": null,
+        "revision_count": 1,
+        "revision_basis_status": "ESTABLISHED_CURRENT_DRIVE_REVISION_ID"
       },
       {
         "id": "1ZNKa4a_Gd4rPnkFXhxI-Du13Fjqpu7OO",
@@ -1354,7 +1698,11 @@
         "shared": false,
         "can_download": true,
         "can_list_children": false,
-        "source_visibility_status": "not_shared"
+        "source_visibility_status": "not_shared",
+        "drive_revision_id": "0B8TOVMYRnG_qcDNhNFphRm9VRitkamUveURoWHhxaS8yT2ZNPQ",
+        "previous_drive_revision_id": null,
+        "revision_count": 1,
+        "revision_basis_status": "ESTABLISHED_CURRENT_DRIVE_REVISION_ID"
       },
       {
         "id": "18RH8EGhzZZOJTGfFu60ihhpkBluDJ-aY",
@@ -1369,7 +1717,11 @@
         "shared": false,
         "can_download": true,
         "can_list_children": false,
-        "source_visibility_status": "not_shared"
+        "source_visibility_status": "not_shared",
+        "drive_revision_id": "0B8TOVMYRnG_qaStVbG9MeVpLVS9ZWWkvb0d6QVMwRDZmQUkwPQ",
+        "previous_drive_revision_id": null,
+        "revision_count": 1,
+        "revision_basis_status": "ESTABLISHED_CURRENT_DRIVE_REVISION_ID"
       },
       {
         "id": "12GKv2ftEhT2k0hFLx3zviwRyopSogITx",
@@ -1384,7 +1736,11 @@
         "shared": false,
         "can_download": true,
         "can_list_children": false,
-        "source_visibility_status": "not_shared"
+        "source_visibility_status": "not_shared",
+        "drive_revision_id": "0B8TOVMYRnG_qMmNjTDlaZEw2cGNRVlRNcVdodVlVVGFSaHQwPQ",
+        "previous_drive_revision_id": null,
+        "revision_count": 1,
+        "revision_basis_status": "ESTABLISHED_CURRENT_DRIVE_REVISION_ID"
       },
       {
         "id": "1Y-nZ6l2nGELicamU1LkY5By3pf4hPZGj",
@@ -1399,7 +1755,11 @@
         "shared": false,
         "can_download": true,
         "can_list_children": false,
-        "source_visibility_status": "not_shared"
+        "source_visibility_status": "not_shared",
+        "drive_revision_id": "0B8TOVMYRnG_qY3dXM0dlUG0zQ3NSNEg1cjNRcEpYS202QlR3PQ",
+        "previous_drive_revision_id": null,
+        "revision_count": 1,
+        "revision_basis_status": "ESTABLISHED_CURRENT_DRIVE_REVISION_ID"
       },
       {
         "id": "1mbewuM1mDaaGOMDKkhgWARYcZ-68ZIPM",
@@ -1414,7 +1774,11 @@
         "shared": false,
         "can_download": true,
         "can_list_children": false,
-        "source_visibility_status": "not_shared"
+        "source_visibility_status": "not_shared",
+        "drive_revision_id": "0B8TOVMYRnG_qS2F4V1hLMDV5a2pTSjk3Y3lxZjZRNTZVazVRPQ",
+        "previous_drive_revision_id": null,
+        "revision_count": 1,
+        "revision_basis_status": "ESTABLISHED_CURRENT_DRIVE_REVISION_ID"
       },
       {
         "id": "1FZf0N9CAOv0s6VSFHjed92sgqJKAM8Gx",
@@ -1429,7 +1793,11 @@
         "shared": false,
         "can_download": true,
         "can_list_children": false,
-        "source_visibility_status": "not_shared"
+        "source_visibility_status": "not_shared",
+        "drive_revision_id": "0B8TOVMYRnG_qNmxxUndtc2hxTENLRHRtNDRQa295bEhHcEZFPQ",
+        "previous_drive_revision_id": null,
+        "revision_count": 1,
+        "revision_basis_status": "ESTABLISHED_CURRENT_DRIVE_REVISION_ID"
       },
       {
         "id": "1gw-G206O0Xtc19d7AvORB-RUCazXT2yL",
@@ -1444,7 +1812,11 @@
         "shared": false,
         "can_download": true,
         "can_list_children": false,
-        "source_visibility_status": "not_shared"
+        "source_visibility_status": "not_shared",
+        "drive_revision_id": "0B8TOVMYRnG_qT0Jpald6eFU5OXBRY3hwWU1zZTZFOWVPeFFFPQ",
+        "previous_drive_revision_id": null,
+        "revision_count": 1,
+        "revision_basis_status": "ESTABLISHED_CURRENT_DRIVE_REVISION_ID"
       },
       {
         "id": "1SQVOXPngthFmu0ew_2YOP3UetvTpNcR7",
@@ -1459,7 +1831,11 @@
         "shared": false,
         "can_download": true,
         "can_list_children": false,
-        "source_visibility_status": "not_shared"
+        "source_visibility_status": "not_shared",
+        "drive_revision_id": "0B8TOVMYRnG_qc2IxTTgveUQ1SUlYSTZCUWVBWWVoaFcxdkhvPQ",
+        "previous_drive_revision_id": null,
+        "revision_count": 1,
+        "revision_basis_status": "ESTABLISHED_CURRENT_DRIVE_REVISION_ID"
       },
       {
         "id": "1qbLm_xyfVOJPeAKZdjGaJnMyjoebamwi",
@@ -1474,7 +1850,11 @@
         "shared": false,
         "can_download": true,
         "can_list_children": false,
-        "source_visibility_status": "not_shared"
+        "source_visibility_status": "not_shared",
+        "drive_revision_id": "0B8TOVMYRnG_qbCtudXdtSXdwMHJYMFpXaHQxSTVoQWo1QWkwPQ",
+        "previous_drive_revision_id": null,
+        "revision_count": 1,
+        "revision_basis_status": "ESTABLISHED_CURRENT_DRIVE_REVISION_ID"
       },
       {
         "id": "1Tx5UmUwmd4GhzLSbECXVm-ANyv2z3vIn",
@@ -1489,7 +1869,11 @@
         "shared": false,
         "can_download": true,
         "can_list_children": false,
-        "source_visibility_status": "not_shared"
+        "source_visibility_status": "not_shared",
+        "drive_revision_id": "0B8TOVMYRnG_qUVQvUC92b0hrMXpNWkYwWWlaZnNta1JYM2tnPQ",
+        "previous_drive_revision_id": null,
+        "revision_count": 1,
+        "revision_basis_status": "ESTABLISHED_CURRENT_DRIVE_REVISION_ID"
       },
       {
         "id": "1bjMnFcAsPlS3xNd2Xq1qwG-ycDvX9W_5",
@@ -1504,7 +1888,11 @@
         "shared": false,
         "can_download": true,
         "can_list_children": false,
-        "source_visibility_status": "not_shared"
+        "source_visibility_status": "not_shared",
+        "drive_revision_id": "0B8TOVMYRnG_qODJnSCtOelJZOUtiYWU2Ym1SaU5za1ZxdzVVPQ",
+        "previous_drive_revision_id": null,
+        "revision_count": 1,
+        "revision_basis_status": "ESTABLISHED_CURRENT_DRIVE_REVISION_ID"
       },
       {
         "id": "1BZLdND_lLJ_ULqgAGfPQ406aGrjnFtuf",
@@ -1519,7 +1907,11 @@
         "shared": false,
         "can_download": true,
         "can_list_children": false,
-        "source_visibility_status": "not_shared"
+        "source_visibility_status": "not_shared",
+        "drive_revision_id": "0B8TOVMYRnG_qTDZiOHVuL1g3ZFlMREpGMVJua09zMkxGdmhjPQ",
+        "previous_drive_revision_id": null,
+        "revision_count": 1,
+        "revision_basis_status": "ESTABLISHED_CURRENT_DRIVE_REVISION_ID"
       },
       {
         "id": "1_vVwP7zOnWnca1kULQjUU-PPNgNkX03e",
@@ -1534,7 +1926,11 @@
         "shared": false,
         "can_download": true,
         "can_list_children": false,
-        "source_visibility_status": "not_shared"
+        "source_visibility_status": "not_shared",
+        "drive_revision_id": "0B8TOVMYRnG_qVlFpQ3VYTjU1UGpMc2RiWWt2MkpQanoxRW9zPQ",
+        "previous_drive_revision_id": null,
+        "revision_count": 1,
+        "revision_basis_status": "ESTABLISHED_CURRENT_DRIVE_REVISION_ID"
       },
       {
         "id": "1d7hiC5UbF2TQ7A0QlfXghc_OZJsSCwzc",
@@ -1549,7 +1945,11 @@
         "shared": false,
         "can_download": true,
         "can_list_children": false,
-        "source_visibility_status": "not_shared"
+        "source_visibility_status": "not_shared",
+        "drive_revision_id": "0B8TOVMYRnG_qaXJxMUR1R2VlT3EwOGhGdEpodVhPL3FXd3FBPQ",
+        "previous_drive_revision_id": null,
+        "revision_count": 1,
+        "revision_basis_status": "ESTABLISHED_CURRENT_DRIVE_REVISION_ID"
       },
       {
         "id": "1LyxxFD9gSUVw0nzSsl7jI3xQVH79EvVz",
@@ -1564,7 +1964,11 @@
         "shared": false,
         "can_download": true,
         "can_list_children": false,
-        "source_visibility_status": "not_shared"
+        "source_visibility_status": "not_shared",
+        "drive_revision_id": "0B8TOVMYRnG_qTmdac1h4YStIakg5SGZTMDNzTzBzTlJFUm9ZPQ",
+        "previous_drive_revision_id": null,
+        "revision_count": 1,
+        "revision_basis_status": "ESTABLISHED_CURRENT_DRIVE_REVISION_ID"
       },
       {
         "id": "1evAlIxZxETYNAPr4E7w5M5bjy_U-Gxpd",
@@ -1579,7 +1983,11 @@
         "shared": false,
         "can_download": true,
         "can_list_children": false,
-        "source_visibility_status": "not_shared"
+        "source_visibility_status": "not_shared",
+        "drive_revision_id": "0B8TOVMYRnG_qbmg3QklFdUpJSTNqRkJrQ2VFbGs0MFN4VjUwPQ",
+        "previous_drive_revision_id": null,
+        "revision_count": 1,
+        "revision_basis_status": "ESTABLISHED_CURRENT_DRIVE_REVISION_ID"
       },
       {
         "id": "1cDZgTy5zUoGYuf26eL5JOqwHDD_DxRBl",
@@ -1594,7 +2002,11 @@
         "shared": false,
         "can_download": true,
         "can_list_children": false,
-        "source_visibility_status": "not_shared"
+        "source_visibility_status": "not_shared",
+        "drive_revision_id": "0B8TOVMYRnG_qMzdIMmZwMndZRmk4K0lEb3FuVUgwd3lBT2dZPQ",
+        "previous_drive_revision_id": null,
+        "revision_count": 1,
+        "revision_basis_status": "ESTABLISHED_CURRENT_DRIVE_REVISION_ID"
       },
       {
         "id": "1fYsnpMabdLbxLAB9bgRJwON6emA2bH-o",
@@ -1609,7 +2021,11 @@
         "shared": false,
         "can_download": true,
         "can_list_children": false,
-        "source_visibility_status": "not_shared"
+        "source_visibility_status": "not_shared",
+        "drive_revision_id": "0B8TOVMYRnG_qR0dpRzgySnBkdXliWGxZc2JyNmZmbzFPamxVPQ",
+        "previous_drive_revision_id": null,
+        "revision_count": 1,
+        "revision_basis_status": "ESTABLISHED_CURRENT_DRIVE_REVISION_ID"
       },
       {
         "id": "1tHDwbVSSs21aLTQG3qiLYnK65nFadOEp",
@@ -1624,7 +2040,11 @@
         "shared": false,
         "can_download": true,
         "can_list_children": false,
-        "source_visibility_status": "not_shared"
+        "source_visibility_status": "not_shared",
+        "drive_revision_id": "0B8TOVMYRnG_qNUdzaXF6RHg3OGxGNTlwMHJ4bDA3K2t3MXVFPQ",
+        "previous_drive_revision_id": null,
+        "revision_count": 1,
+        "revision_basis_status": "ESTABLISHED_CURRENT_DRIVE_REVISION_ID"
       },
       {
         "id": "1-C6JbPgXfJ4TWTbxda4YH2ZgFidEIBoM",
@@ -1639,7 +2059,11 @@
         "shared": false,
         "can_download": true,
         "can_list_children": false,
-        "source_visibility_status": "not_shared"
+        "source_visibility_status": "not_shared",
+        "drive_revision_id": "0B8TOVMYRnG_qbHJOdExGaDFOZUxselBHY1lvdUIxUVM1c28wPQ",
+        "previous_drive_revision_id": null,
+        "revision_count": 1,
+        "revision_basis_status": "ESTABLISHED_CURRENT_DRIVE_REVISION_ID"
       },
       {
         "id": "12I7gOgUWJzTaV4Of0GhY2HnCG14ZqCup",
@@ -1654,7 +2078,11 @@
         "shared": false,
         "can_download": true,
         "can_list_children": false,
-        "source_visibility_status": "not_shared"
+        "source_visibility_status": "not_shared",
+        "drive_revision_id": "0B8TOVMYRnG_qbVlNNjNWNitkSlhXd21kMEpIZ3llM1NDRHdNPQ",
+        "previous_drive_revision_id": null,
+        "revision_count": 1,
+        "revision_basis_status": "ESTABLISHED_CURRENT_DRIVE_REVISION_ID"
       },
       {
         "id": "1CunWpl6x8UGIuRNJht1MlTZdZANIxovh",
@@ -1669,7 +2097,11 @@
         "shared": false,
         "can_download": true,
         "can_list_children": false,
-        "source_visibility_status": "not_shared"
+        "source_visibility_status": "not_shared",
+        "drive_revision_id": "0B8TOVMYRnG_qQWtFTUhZM3BaWlExQ29PRmhqcytEZkMzUUZrPQ",
+        "previous_drive_revision_id": null,
+        "revision_count": 1,
+        "revision_basis_status": "ESTABLISHED_CURRENT_DRIVE_REVISION_ID"
       },
       {
         "id": "1CuMXpNm_YmetYloIw1feB2X-8njfJPgi",
@@ -1684,7 +2116,11 @@
         "shared": false,
         "can_download": true,
         "can_list_children": false,
-        "source_visibility_status": "not_shared"
+        "source_visibility_status": "not_shared",
+        "drive_revision_id": "0B8TOVMYRnG_qZytOQ0NwaEwxaTJNSWwrQ3lITnNwdG5sWTNNPQ",
+        "previous_drive_revision_id": null,
+        "revision_count": 1,
+        "revision_basis_status": "ESTABLISHED_CURRENT_DRIVE_REVISION_ID"
       },
       {
         "id": "1BKQzrWL87LDmecG4dlvG6G88HZY2BJ_t",
@@ -1699,7 +2135,11 @@
         "shared": false,
         "can_download": true,
         "can_list_children": false,
-        "source_visibility_status": "not_shared"
+        "source_visibility_status": "not_shared",
+        "drive_revision_id": "0B8TOVMYRnG_qRWRsZFBBbGc5Yy8yclZuam8vcUd2L1B6VlVZPQ",
+        "previous_drive_revision_id": null,
+        "revision_count": 1,
+        "revision_basis_status": "ESTABLISHED_CURRENT_DRIVE_REVISION_ID"
       },
       {
         "id": "1WuRigmKnL3ZP8RuLBIBRX-i_EbAcaDTQ",
@@ -1714,7 +2154,11 @@
         "shared": false,
         "can_download": true,
         "can_list_children": false,
-        "source_visibility_status": "not_shared"
+        "source_visibility_status": "not_shared",
+        "drive_revision_id": "0B8TOVMYRnG_qbXRpaGhVYkNMeXBFODF1Wld4YnlMVkU0dkUwPQ",
+        "previous_drive_revision_id": null,
+        "revision_count": 1,
+        "revision_basis_status": "ESTABLISHED_CURRENT_DRIVE_REVISION_ID"
       },
       {
         "id": "1YTp1uheud6zqxikd9dvxwabX3jW09Zrr",
@@ -1729,7 +2173,11 @@
         "shared": false,
         "can_download": true,
         "can_list_children": false,
-        "source_visibility_status": "not_shared"
+        "source_visibility_status": "not_shared",
+        "drive_revision_id": "0B8TOVMYRnG_qSDRUZlZPVkQ0M1ZnS0dQb25qRzN2V2lSRFhJPQ",
+        "previous_drive_revision_id": null,
+        "revision_count": 1,
+        "revision_basis_status": "ESTABLISHED_CURRENT_DRIVE_REVISION_ID"
       },
       {
         "id": "1IMRiurtKPJ9PESoMltyp6OEMhI27CD8s",
@@ -1744,7 +2192,11 @@
         "shared": false,
         "can_download": true,
         "can_list_children": false,
-        "source_visibility_status": "not_shared"
+        "source_visibility_status": "not_shared",
+        "drive_revision_id": "0B8TOVMYRnG_qaDMzK21lTjBpeXZhMmxRZWNaV3l4UXhmQ0k4PQ",
+        "previous_drive_revision_id": null,
+        "revision_count": 1,
+        "revision_basis_status": "ESTABLISHED_CURRENT_DRIVE_REVISION_ID"
       },
       {
         "id": "1eFR8jcsHS77kxZXICCjxdKS0VrxWjv2K",
@@ -1759,7 +2211,11 @@
         "shared": false,
         "can_download": true,
         "can_list_children": false,
-        "source_visibility_status": "not_shared"
+        "source_visibility_status": "not_shared",
+        "drive_revision_id": "0B8TOVMYRnG_qSjVlcit4V0ZndGxxRHUxQUxGYTJNZHU0WkxJPQ",
+        "previous_drive_revision_id": null,
+        "revision_count": 1,
+        "revision_basis_status": "ESTABLISHED_CURRENT_DRIVE_REVISION_ID"
       },
       {
         "id": "13rlL4pcmbYyiuyd0ZFnqTtWDyrws-Y24",
@@ -1774,7 +2230,11 @@
         "shared": false,
         "can_download": true,
         "can_list_children": false,
-        "source_visibility_status": "not_shared"
+        "source_visibility_status": "not_shared",
+        "drive_revision_id": "0B8TOVMYRnG_qNXNJaHcxQk5DMWN3b3N3RXpXeWl5djc3T0FVPQ",
+        "previous_drive_revision_id": null,
+        "revision_count": 1,
+        "revision_basis_status": "ESTABLISHED_CURRENT_DRIVE_REVISION_ID"
       },
       {
         "id": "1ceJ5-mQsRQmFp8SB5SxCzVhYr11vS4sc",
@@ -1789,7 +2249,11 @@
         "shared": false,
         "can_download": true,
         "can_list_children": false,
-        "source_visibility_status": "not_shared"
+        "source_visibility_status": "not_shared",
+        "drive_revision_id": "0B8TOVMYRnG_qaFNNMkwzMU1hajhKbURPS0hVTFpsclRVemNVPQ",
+        "previous_drive_revision_id": null,
+        "revision_count": 1,
+        "revision_basis_status": "ESTABLISHED_CURRENT_DRIVE_REVISION_ID"
       },
       {
         "id": "1dbUTnlv4yS_nZLOuaPiHNfnkEAkjD4yd",
@@ -1804,7 +2268,11 @@
         "shared": false,
         "can_download": true,
         "can_list_children": false,
-        "source_visibility_status": "not_shared"
+        "source_visibility_status": "not_shared",
+        "drive_revision_id": "0B8TOVMYRnG_qQ042RFdTU2xJdlZ1bFdHUVBINHp5ZU1CKzk4PQ",
+        "previous_drive_revision_id": null,
+        "revision_count": 1,
+        "revision_basis_status": "ESTABLISHED_CURRENT_DRIVE_REVISION_ID"
       },
       {
         "id": "1G__Des6asQwTYJ6ltFGLqJKmszRh3BgM",
@@ -1819,7 +2287,11 @@
         "shared": false,
         "can_download": true,
         "can_list_children": false,
-        "source_visibility_status": "not_shared"
+        "source_visibility_status": "not_shared",
+        "drive_revision_id": "0B8TOVMYRnG_qcnZjdjRtUnZERU1qNEFqMjhoRDUreUZ6WWI0PQ",
+        "previous_drive_revision_id": null,
+        "revision_count": 1,
+        "revision_basis_status": "ESTABLISHED_CURRENT_DRIVE_REVISION_ID"
       },
       {
         "id": "1uBnFBthEBWvews2YG4DgkY7jYHKFcaBg",
@@ -1834,7 +2306,11 @@
         "shared": false,
         "can_download": true,
         "can_list_children": false,
-        "source_visibility_status": "not_shared"
+        "source_visibility_status": "not_shared",
+        "drive_revision_id": "0B8TOVMYRnG_qK3FaSW0vanVkY3NzeWxnUGdnWkVhb3A3bDIwPQ",
+        "previous_drive_revision_id": null,
+        "revision_count": 1,
+        "revision_basis_status": "ESTABLISHED_CURRENT_DRIVE_REVISION_ID"
       },
       {
         "id": "1ooAnfbDHtQs8luevzEtzJSHQLWCgesl_",
@@ -1849,7 +2325,11 @@
         "shared": false,
         "can_download": true,
         "can_list_children": false,
-        "source_visibility_status": "not_shared"
+        "source_visibility_status": "not_shared",
+        "drive_revision_id": "0B8TOVMYRnG_qZlZuNnVOVUxzVXQ5WlRpV09KaVYyaHhDOWc4PQ",
+        "previous_drive_revision_id": null,
+        "revision_count": 1,
+        "revision_basis_status": "ESTABLISHED_CURRENT_DRIVE_REVISION_ID"
       },
       {
         "id": "1s9xwkl6kFMWcHVpTm5JDJu0tlQoD-bWi",
@@ -1864,7 +2344,11 @@
         "shared": false,
         "can_download": true,
         "can_list_children": false,
-        "source_visibility_status": "not_shared"
+        "source_visibility_status": "not_shared",
+        "drive_revision_id": "0B8TOVMYRnG_qejBPUjdQbzQ3Z2xtQlZQVmo0MW1yUExDMnljPQ",
+        "previous_drive_revision_id": null,
+        "revision_count": 1,
+        "revision_basis_status": "ESTABLISHED_CURRENT_DRIVE_REVISION_ID"
       },
       {
         "id": "1WpcuUCyFmd9LGwJYKATJ3YcZUJMWKR_t",
@@ -1879,7 +2363,11 @@
         "shared": false,
         "can_download": true,
         "can_list_children": false,
-        "source_visibility_status": "not_shared"
+        "source_visibility_status": "not_shared",
+        "drive_revision_id": "0B8TOVMYRnG_qa1RMb3VXcXcvRy9ES0tLVENPMFowOFYxZFk0PQ",
+        "previous_drive_revision_id": null,
+        "revision_count": 1,
+        "revision_basis_status": "ESTABLISHED_CURRENT_DRIVE_REVISION_ID"
       },
       {
         "id": "1vX9c4ZOlt0-lElazkJkLrIzeciiG1N13",
@@ -1894,7 +2382,11 @@
         "shared": false,
         "can_download": true,
         "can_list_children": false,
-        "source_visibility_status": "not_shared"
+        "source_visibility_status": "not_shared",
+        "drive_revision_id": "0B8TOVMYRnG_qbk9vOWhBUTJQS2xYd2tYY3QyMktkeDlUV1FvPQ",
+        "previous_drive_revision_id": null,
+        "revision_count": 1,
+        "revision_basis_status": "ESTABLISHED_CURRENT_DRIVE_REVISION_ID"
       },
       {
         "id": "10Jb8D2sjDHldcpGi-Hm5Nj5bv0sTW31M",
@@ -1909,7 +2401,11 @@
         "shared": false,
         "can_download": true,
         "can_list_children": false,
-        "source_visibility_status": "not_shared"
+        "source_visibility_status": "not_shared",
+        "drive_revision_id": "0B8TOVMYRnG_qUDRrb3BxUmRuWkF4Q3pGaEt1dklIVUh6SUpZPQ",
+        "previous_drive_revision_id": null,
+        "revision_count": 1,
+        "revision_basis_status": "ESTABLISHED_CURRENT_DRIVE_REVISION_ID"
       },
       {
         "id": "1N6r-ARuoAl5VdEXdH_LSxgdL9pBO6IlO",
@@ -1924,7 +2420,11 @@
         "shared": false,
         "can_download": true,
         "can_list_children": false,
-        "source_visibility_status": "not_shared"
+        "source_visibility_status": "not_shared",
+        "drive_revision_id": "0B8TOVMYRnG_qT1hxbDAyS0g1VG9TdkptSlAzUEpSM09tZ1F3PQ",
+        "previous_drive_revision_id": null,
+        "revision_count": 1,
+        "revision_basis_status": "ESTABLISHED_CURRENT_DRIVE_REVISION_ID"
       },
       {
         "id": "1XHnalUSJqDErDtXTOpxIOqtQ1icZjkIz",
@@ -1939,7 +2439,11 @@
         "shared": false,
         "can_download": true,
         "can_list_children": false,
-        "source_visibility_status": "not_shared"
+        "source_visibility_status": "not_shared",
+        "drive_revision_id": "0B8TOVMYRnG_qZFRkNzlWZVZaaTZIRFVxTlRyMm9FUlRvRE1JPQ",
+        "previous_drive_revision_id": null,
+        "revision_count": 1,
+        "revision_basis_status": "ESTABLISHED_CURRENT_DRIVE_REVISION_ID"
       },
       {
         "id": "1lS4K9yJDLiZLKSN4AWDR3N5gpsWPTcEA",
@@ -1954,7 +2458,11 @@
         "shared": false,
         "can_download": true,
         "can_list_children": false,
-        "source_visibility_status": "not_shared"
+        "source_visibility_status": "not_shared",
+        "drive_revision_id": "0B8TOVMYRnG_qMEd3YWRTbjk5LzVDODFIcGVQZkpvQlJKajRVPQ",
+        "previous_drive_revision_id": null,
+        "revision_count": 1,
+        "revision_basis_status": "ESTABLISHED_CURRENT_DRIVE_REVISION_ID"
       },
       {
         "id": "1CS9ah5PdGsqz-3qd2B_Mp3LGzxGo-5wp",
@@ -1969,7 +2477,11 @@
         "shared": false,
         "can_download": true,
         "can_list_children": false,
-        "source_visibility_status": "not_shared"
+        "source_visibility_status": "not_shared",
+        "drive_revision_id": "0B8TOVMYRnG_qeG80enJ4VVRoUXZlRE9DNnd4eEJUdXhNTWRrPQ",
+        "previous_drive_revision_id": null,
+        "revision_count": 1,
+        "revision_basis_status": "ESTABLISHED_CURRENT_DRIVE_REVISION_ID"
       }
     ],
     "subfolders": [
@@ -2131,5 +2643,7 @@
     "do_not_infer_revision",
     "do_not_copy_content",
     "do_not_create_normative_relations"
-  ]
+  ],
+  "revision_basis_note": "Each of the 128 inventoried files has one current Drive revision ID and no previousRevisionId at inspection time; folders are location containers, not content revisions.",
+  "revision_checked_at": "2026-11-17"
 }
