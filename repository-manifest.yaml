@@ -1,0 +1,14 @@
+repository:
+  logical_name: KB_v02
+  remote: https://github.com/AdrianVlas/v_kb_v02.git
+  base_branch: main
+  working_branch: luna_kb_v02
+  bootstrap_status: candidate
+  authoritative_system: git
+  production_ready: false
+  note: Google Drive mapping is maintained outside this public repository.
+open_questions:
+  - Q-ANA01
+  - Q-BC07
+  - Q-AUTHORITY-001
+  - Q-SOURCE-REVISION-001
