@@ -1,7 +1,14 @@
 bootstrap_id: BOOT-0001
 branch: luna_kb_v02
-result: pending_validation
+head_commit: 09e9cc1a1482f46fcdba892eacf6e416b5aeae03
+result: PASS
 objects_initialized: 11
 initial_revisions: 11
-errors: not_run
-warnings: expected_provisional_authority
+required_files_per_object: 5
+errors: 0
+warnings:
+  - authority_not_established
+  - provisional_candidate_content
+  - Q-ANA01_open
+  - Q-BC07_open
+main_unchanged: true
