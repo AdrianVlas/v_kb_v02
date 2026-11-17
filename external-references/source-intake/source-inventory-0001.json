@@ -5,7 +5,7 @@
   "content_analysis": "NOT_PERFORMED",
   "provenance_status": "RECORDED_LOCATION_ONLY",
   "revision_basis_status": "ESTABLISHED_FOR_INVENTORIED_SCOPE",
-  "authority_status": "NOT_ESTABLISHED",
+  "authority_status": "ESTABLISHED_FOR_INVENTORIED_SCOPE",
   "open_questions": [
     "Q-AUTHORITY-001",
     "Q-SOURCE-REVISION-001"
@@ -2654,5 +2654,10 @@
     "storage_owner_display_name": "Andrii MarkEng",
     "engineering_authority_status": "NOT_ESTABLISHED",
     "rule": "Drive storage ownership is not treated as engineering authority"
-  }
+  },
+  "authority_role": "Lead Engineer",
+  "authority_scope": "Engineering System 01",
+  "authority_basis": "USER_PROVIDED_GOVERNANCE_ASSIGNMENT",
+  "authority_applicability_confirmed": true,
+  "authority_applicability_note": "Approved PDF, TXT, src_C, and src_C/inc are within Engineering System 01 scope."
 }
