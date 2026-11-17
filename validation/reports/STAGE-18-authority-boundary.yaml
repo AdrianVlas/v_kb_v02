@@ -1,0 +1,24 @@
+stage_id: STAGE-18
+branch: stage18-authority-boundary
+status: STORAGE_OWNERSHIP_RECORDED_AUTHORITY_UNRESOLVED
+base_main: e5c6e04c806e91d9eddf59db60da8018fc0d4ed3
+inventory_file: external-references/source-intake/source-inventory-0001.json
+source_record: external-references/source-intake/source-intake-record.yaml
+files_checked: 128
+permission_metadata_errors: 0
+permission_pattern: user:owner only
+storage_owner_email: andriimarkeng@gmail.com
+storage_owner_display_name: Andrii MarkEng
+engineering_authority_status: NOT_ESTABLISHED
+authority_boundary_rule: Drive storage ownership is not engineering authority
+revision_basis_status: ESTABLISHED_FOR_INVENTORIED_SCOPE
+provenance_status: RECORDED_LOCATION_ONLY
+content_analysis: NOT_PERFORMED
+source_artifacts_ingested: 0
+open_questions:
+  - Q-AUTHORITY-001
+  - Q-SOURCE-REVISION-001
+candidate_structure_changed: false
+production_content_added: false
+main_unchanged: true
+merge_status: NOT_PERFORMED
