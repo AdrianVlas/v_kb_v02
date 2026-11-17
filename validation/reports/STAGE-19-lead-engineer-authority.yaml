@@ -1,0 +1,19 @@
+stage_id: STAGE-19
+branch: stage19-lead-engineer-authority
+status: MA01_AUTHORITY_ASSIGNED_SOURCE_SCOPE_PENDING
+base_main: 1671353c6ce7aa98871e636dd6570821618a8ecb
+authority_role: Lead Engineer
+authority_scope_confirmed:
+  - Engineering System 01
+  - MA-01
+authority_basis: USER_PROVIDED_GOVERNANCE_ASSIGNMENT
+source_artifact_authority: NOT_ESTABLISHED
+remaining_question: Applicability of Lead Engineer authority to approved external PDF, TXT, and src_C source artifacts
+revision_basis_status: ESTABLISHED_FOR_INVENTORIED_SCOPE
+provenance_status: RECORDED_LOCATION_ONLY
+content_analysis: NOT_PERFORMED
+source_artifacts_ingested: 0
+candidate_structure_changed: false
+production_content_added: false
+main_unchanged: true
+merge_status: NOT_PERFORMED
