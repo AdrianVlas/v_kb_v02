@@ -1,0 +1,20 @@
+stage_id: STAGE-16
+branch: stage16_source-record-sync
+status: SOURCE_INTAKE_RECORD_SYNCHRONIZED
+base_main: dbeb8acd7f0cd8b217f577b95f729e66ab8ea89c
+record_updated: external-references/source-intake/source-intake-record.yaml
+inventory_reference: external-references/source-intake/source-inventory-0001.json
+source_artifacts_received: 2
+source_artifacts_ingested: 0
+metadata_only: true
+content_analysis: NOT_PERFORMED
+authority_status: NOT_ESTABLISHED
+provenance_status: RECORDED_LOCATION_ONLY
+revision_basis_status: NOT_ESTABLISHED
+open_questions:
+  - Q-AUTHORITY-001
+  - Q-SOURCE-REVISION-001
+candidate_structure_changed: false
+production_content_added: false
+main_unchanged: true
+merge_status: NOT_PERFORMED
