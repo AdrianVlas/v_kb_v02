@@ -1,7 +1,8 @@
 bootstrap_id: BOOT-0001
 branch: luna_kb_v02
-validation_basis_commit: f48280c0a5370b974d1e2e93e5c618b9aa1d7439
+validation_basis_commit: 9e552b918ee5c477f2ae1b0aef04353c3fc7c386
 result: PASS
+review_status: BOOTSTRAP_ACCEPTED
 objects_initialized: 11
 initial_revisions: 11
 required_files_per_object: 5
@@ -12,3 +13,4 @@ warnings:
   - Q-ANA01_open
   - Q-BC07_open
 main_unchanged: true
+merge_status: NOT_PERFORMED
