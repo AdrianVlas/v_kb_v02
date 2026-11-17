@@ -1,0 +1,6 @@
+question_id: Q-SOURCE-REVISION-001
+title: External source revision convention
+status: open
+impact: medium
+temporary_rule: IWR may reference immutable source commit or equivalent
+owner: not_established

@@ -1,0 +1,27 @@
+view_type: derived_index
+authoritative: false
+generated_from: controlled_object_records
+status: candidate
+objects:
+  - ma: MA-01
+    object_id: BASE-SYS-0001
+  - ma: MA-02
+    object_id: GOV-SYS-0001
+  - ma: MA-03
+    object_id: PROT-SYS-0001
+  - ma: MA-04
+    object_id: CON-A2B-0001
+  - ma: MA-05
+    object_id: KB-SYS-0001
+  - ma: MA-06
+    object_id: KP-SYS-0001
+  - ma: MA-07
+    object_id: REQ-GUI-0001
+  - ma: MA-08
+    object_id: DES-GUI-0001
+  - ma: MA-09
+    object_id: CON-B2C-0001
+  - ma: MA-10
+    object_id: IIP-GUI-0001
+  - ma: MA-11
+    object_id: IWR-GUI-0001

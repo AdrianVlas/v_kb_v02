@@ -1,0 +1,12 @@
+version: candidate-v0.1
+severity:
+  structural_failure: ERROR
+  unresolved_authority: WARNING
+rules:
+  - unique_object_ids
+  - valid_revision_files
+  - fixation_placeholders_present
+  - no_dangling_relations
+  - no_latest_current_final_references
+  - open_questions_recorded
+  - candidate_status_only

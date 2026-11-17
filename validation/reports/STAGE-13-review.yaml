@@ -1,0 +1,35 @@
+review_id: STAGE-13-REVIEW-0001
+repository: AdrianVlas/v_kb_v02
+branch: luna_kb_v02
+base_branch: main
+branch_head: 697b9c14c64925316b213d56c22cc296f04696bb
+base_head: cd354057476d97092de2f198884813c275c94115
+comparison:
+  status: ahead
+  ahead_by: 108
+  behind_by: 0
+scope:
+  objects: 11
+  bootstrap_revisions: 11
+  refined_candidate_revisions: 11
+  open_questions: 4
+validation:
+  stage_12_consistency_review: PASS
+  errors: 0
+  warnings: 4
+  main_unchanged: true
+decision:
+  status: READY_FOR_MERGE_REVIEW
+  approval: NOT_GRANTED
+  merge: NOT_PERFORMED
+  reviewer: NOT_ESTABLISHED
+open_blockers:
+  - Q-ANA01
+  - Q-BC07
+  - Q-AUTHORITY-001
+  - Q-SOURCE-REVISION-001
+constraints:
+  - candidate_content_only
+  - no_production_implementation
+  - no_normative_authority
+  - no_verification_or_acceptance

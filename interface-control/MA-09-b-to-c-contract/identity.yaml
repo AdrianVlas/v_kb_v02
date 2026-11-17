@@ -1,0 +1,9 @@
+object_id: CON-B2C-0001
+object_type: b_to_c_contract
+ma: MA-09
+title: "Bootstrap candidate for MA-09"
+created_at: NOT_FIXED
+created_by: NOT_ESTABLISHED
+lifecycle_state: active
+authority_status: candidate
+bootstrap_status: candidate

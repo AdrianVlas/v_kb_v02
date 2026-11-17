@@ -1,0 +1,6 @@
+question_id: Q-BC07
+title: Verification, testing, regression, and acceptance semantics
+status: open
+impact: high
+temporary_rule: MA-11 excludes quality-acceptance statuses
+owner: not_established

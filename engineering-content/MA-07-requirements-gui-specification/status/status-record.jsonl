@@ -1,0 +1,2 @@
+{"status_event_id":"ST-BOOT-MA-07","object":"REQ-GUI-0001@r0001","status":"CANDIDATE","set_by":"bootstrap","set_at":"NOT_FIXED","basis":"initial candidate creation"}
+{"status_event_id":"ST-ST11-MA-07","object":"REQ-GUI-0001@r0002","status":"CANDIDATE","set_by":"controlled_refinement","set_at":"NOT_FIXED","basis":"Stage 11 candidate content refinement"}

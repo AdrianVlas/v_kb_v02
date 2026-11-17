@@ -1,0 +1,42 @@
+bootstrap_id: BOOT-0001
+branch: luna_kb_v02
+validation_basis_commit: 164c547d881c6bb3505a43b950147e44a8fc3a56
+result: PASS
+review_status: BOOTSTRAP_ACCEPTED
+stage_11_scope:
+  - MA-01
+  - MA-02
+  - MA-03
+  - MA-04
+  - MA-05
+  - MA-06
+  - MA-07
+  - MA-08
+  - MA-09
+  - MA-10
+  - MA-11
+stage_11_revision: r0002
+stage_12_consistency_review: PASS
+stage_12_checks:
+  unique_object_ids: PASS
+  revision_fixation_pairs: PASS
+  status_records: PASS
+  relation_records: PASS
+  open_questions: PASS
+  forbidden_references: PASS
+  main_unchanged: PASS
+stage_13_review_package: validation/reports/STAGE-13-review.yaml
+stage_13_merge_readiness: READY_FOR_MERGE_REVIEW
+stage_13_approval: NOT_GRANTED
+objects_initialized: 11
+initial_revisions: 11
+refined_candidate_revisions: 11
+required_files_per_object: 5
+errors: 0
+warnings:
+  - authority_not_established
+  - provisional_candidate_content
+  - Q-ANA01_open
+  - Q-BC07_open
+main_unchanged: true
+merge_status: NOT_PERFORMED
