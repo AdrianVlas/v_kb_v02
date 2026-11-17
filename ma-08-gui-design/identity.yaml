@@ -1,0 +1,9 @@
+object_id: DES-GUI-0001
+object_type: gui_design
+ma: MA-08
+title: "Bootstrap candidate for MA-08"
+created_at: NOT_FIXED
+created_by: NOT_ESTABLISHED
+lifecycle_state: active
+authority_status: candidate
+bootstrap_status: candidate
