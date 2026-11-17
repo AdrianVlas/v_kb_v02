@@ -1,9 +1,14 @@
 intake_record_id: SRC-INTAKE-0001
 status: SOURCE_METADATA_INVENTORIED
 source_artifacts_received: 2
+source_artifacts_inventoried:
+  target_documents: 2
+  source_directories: 2
+  source_files: 126
+  total_file_revision_records: 128
 source_artifacts_ingested: 0
 inventory_file: external-references/source-intake/source-inventory-0001.json
-inventory_commit: d8141328c58e878f01ff74cc8c2607aefe52cc8c
+inventory_commit: cf6e34aba055614e16f01c3ad9457049519844ac
 inventory_scope:
   - approved target PDF
   - approved target TXT
@@ -17,10 +22,13 @@ metadata_recorded:
   sizes: true
   permissions: true
   timestamps: true
+  current_drive_revision_ids: true
+revision_basis_status: ESTABLISHED_FOR_INVENTORIED_SCOPE
+revision_check_result: 128 files with one current Drive revision ID and no previousRevisionId
+revision_checked_at: 2026-11-17
 content_analysis: NOT_PERFORMED
 provenance_status: RECORDED_LOCATION_ONLY
 authority_status: NOT_ESTABLISHED
-revision_basis_status: NOT_ESTABLISHED
 owner: NOT_ESTABLISHED
 target_objects:
   - MA-01
