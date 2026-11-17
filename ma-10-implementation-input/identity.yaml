@@ -1,0 +1,9 @@
+object_id: IIP-GUI-0001
+object_type: implementation_input
+ma: MA-10
+title: "Bootstrap candidate for MA-10"
+created_at: NOT_FIXED
+created_by: NOT_ESTABLISHED
+lifecycle_state: active
+authority_status: candidate
+bootstrap_status: candidate
