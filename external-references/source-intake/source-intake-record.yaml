@@ -8,12 +8,13 @@ source_artifacts_inventoried:
   total_file_revision_records: 128
 source_artifacts_ingested: 0
 inventory_file: external-references/source-intake/source-inventory-0001.json
-inventory_commit: e29048a244409387ff617742046e65cac9e4e531
+inventory_commit: fe5430fb4b4bab13cf297ba1539ecf93c0048601
 inventory_scope:
   - approved target PDF
   - approved target TXT
   - src_C direct contents
   - src_C/inc direct contents
+  - Engineering System 01
 metadata_recorded:
   drive_ids: true
   urls: true
@@ -32,11 +33,15 @@ storage_ownership_check:
   permission_pattern: user:owner only
   storage_owner_email: andriimarkeng@gmail.com
   storage_owner_display_name: Andrii MarkEng
-  engineering_authority_status: NOT_ESTABLISHED
+  engineering_authority_status: ESTABLISHED
+authority_status: ESTABLISHED_FOR_INVENTORIED_SCOPE
+authority_role: Lead Engineer
+authority_scope: Engineering System 01
+authority_basis: USER_PROVIDED_GOVERNANCE_ASSIGNMENT
+authority_applicability_confirmed: true
 content_analysis: NOT_PERFORMED
 provenance_status: RECORDED_LOCATION_ONLY
-authority_status: NOT_ESTABLISHED
-owner: NOT_ESTABLISHED
+owner: Lead Engineer
 target_objects:
   - MA-01
   - MA-05
@@ -45,7 +50,6 @@ target_objects:
   - MA-08
   - MA-10
 open_questions:
-  - Q-AUTHORITY-001
   - Q-SOURCE-REVISION-001
 rules:
   - preserve_provenance

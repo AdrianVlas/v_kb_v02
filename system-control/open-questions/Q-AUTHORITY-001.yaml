@@ -1,12 +1,16 @@
 question_id: Q-AUTHORITY-001
 title: Governance and cross-boundary decision authority
-status: partially_resolved
+status: resolved
 impact: high
 resolved_scope:
   - MA-01
   - Engineering System 01
+  - approved target PDF
+  - approved target TXT
+  - src_C direct contents
+  - src_C/inc direct contents
 authority_role: Lead Engineer
 authority_basis: USER_PROVIDED_GOVERNANCE_ASSIGNMENT
-remaining_question: Applicability of Lead Engineer authority to the approved external PDF, TXT, and src_C source artifacts
-temporary_rule: Do not infer source-artifact authority beyond the confirmed Engineering System 01 scope
+resolution: Lead Engineer authority applies to the approved source artifacts within Engineering System 01
+temporary_rule: Do not infer authority from Drive storage ownership
 owner: Lead Engineer
