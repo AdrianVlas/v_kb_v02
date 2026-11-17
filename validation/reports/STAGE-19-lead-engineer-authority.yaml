@@ -15,5 +15,6 @@ content_analysis: NOT_PERFORMED
 source_artifacts_ingested: 0
 candidate_structure_changed: false
 production_content_added: false
-main_unchanged: true
-merge_status: NOT_PERFORMED
+main_unchanged_before_merge: true
+merge_status: MERGED
+merge_commit: 93ae2185dc76a538ce6df4a5fa8aea315bc3d81a
