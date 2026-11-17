@@ -1,0 +1,16 @@
+stage_id: STAGE-15
+branch: stage15_source_intake
+status: SOURCE_INTAKE_READY
+source_artifacts_received: 0
+source_artifacts_ingested: 0
+production_content_added: false
+candidate_structure_changed: false
+intake_scaffold: PASS
+authority_status: NOT_ESTABLISHED
+revision_basis_status: NOT_ESTABLISHED
+open_questions:
+  - Q-AUTHORITY-001
+  - Q-SOURCE-REVISION-001
+next_required_input: controlled source artifacts with provenance and exact revision basis
+main_unchanged: true
+merge_status: NOT_PERFORMED
