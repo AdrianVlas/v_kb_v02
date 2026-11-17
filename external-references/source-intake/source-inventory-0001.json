@@ -2645,5 +2645,14 @@
     "do_not_create_normative_relations"
   ],
   "revision_basis_note": "Each of the 128 inventoried files has one current Drive revision ID and no previousRevisionId at inspection time; folders are location containers, not content revisions.",
-  "revision_checked_at": "2026-11-17"
+  "revision_checked_at": "2026-11-17",
+  "storage_ownership_check": {
+    "checked_at": "2026-11-17",
+    "files_checked": 128,
+    "permission_pattern": "user:owner only",
+    "storage_owner_email": "andriimarkeng@gmail.com",
+    "storage_owner_display_name": "Andrii MarkEng",
+    "engineering_authority_status": "NOT_ESTABLISHED",
+    "rule": "Drive storage ownership is not treated as engineering authority"
+  }
 }
