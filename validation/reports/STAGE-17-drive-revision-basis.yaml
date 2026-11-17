@@ -1,0 +1,25 @@
+stage_id: STAGE-17
+branch: stage17-drive-revision-basis
+status: DRIVE_REVISION_BASIS_ESTABLISHED_FOR_INVENTORIED_SCOPE
+base_main: 1f8d12d93835858ee2f7e17568f8e6451086043b
+inventory_file: external-references/source-intake/source-inventory-0001.json
+source_record: external-references/source-intake/source-intake-record.yaml
+revision_checked_at: 2026-11-17
+files_checked: 128
+files_with_current_drive_revision_id: 128
+files_with_previous_revision_id: 0
+revision_lookup_errors: 0
+folders_revision_checked: false
+folders_note: Folders are location containers; revision basis applies to inventoried files.
+content_analysis: NOT_PERFORMED
+source_artifacts_ingested: 0
+authority_status: NOT_ESTABLISHED
+provenance_status: RECORDED_LOCATION_ONLY
+revision_basis_status: ESTABLISHED_FOR_INVENTORIED_SCOPE
+open_questions:
+  - Q-AUTHORITY-001
+  - Q-SOURCE-REVISION-001
+candidate_structure_changed: false
+production_content_added: false
+main_unchanged: true
+merge_status: NOT_PERFORMED
