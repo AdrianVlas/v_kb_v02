@@ -1,0 +1,31 @@
+post_merge_check_id: POST-MERGE-0001
+repository: AdrianVlas/v_kb_v02
+branch: main
+validated_commit: e7e6e146f28bac0bfe287e3dff962202f9d47851
+result: PASS
+checks:
+  tree_complete: PASS
+  object_id_count: 11
+  r0001_revision_count: 11
+  r0002_revision_count: 11
+  r0001_fixation_count: 11
+  r0002_fixation_count: 11
+  status_record_count: 11
+  relation_record_count: 11
+  open_question_count: 4
+  boot_report_present: PASS
+  stage_13_report_present: PASS
+  forbidden_path_check: PASS
+  tree_truncated: false
+merge:
+  pull_request: 1
+  merge_commit: fed8db75cc4c9ac16d00477238187b2ed9214a6e
+  source_branch: luna_kb_v02
+  status: CONFIRMED
+remaining_open_questions:
+  - Q-ANA01
+  - Q-BC07
+  - Q-AUTHORITY-001
+  - Q-SOURCE-REVISION-001
+production_content: NOT_ADDED
+verification_or_acceptance_artifacts: NOT_ADDED
