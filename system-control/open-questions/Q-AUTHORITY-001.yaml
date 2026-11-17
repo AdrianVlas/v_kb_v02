@@ -1,6 +1,12 @@
 question_id: Q-AUTHORITY-001
 title: Governance and cross-boundary decision authority
-status: open
+status: partially_resolved
 impact: high
-temporary_rule: Do not infer authority from object ownership
-owner: not_established
+resolved_scope:
+  - MA-01
+  - Engineering System 01
+authority_role: Lead Engineer
+authority_basis: USER_PROVIDED_GOVERNANCE_ASSIGNMENT
+remaining_question: Applicability of Lead Engineer authority to the approved external PDF, TXT, and src_C source artifacts
+temporary_rule: Do not infer source-artifact authority beyond the confirmed Engineering System 01 scope
+owner: Lead Engineer
