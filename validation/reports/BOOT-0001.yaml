@@ -1,6 +1,6 @@
 bootstrap_id: BOOT-0001
 branch: luna_kb_v02
-head_commit: 09e9cc1a1482f46fcdba892eacf6e416b5aeae03
+validation_commit: CURRENT_COMMIT
 result: PASS
 objects_initialized: 11
 initial_revisions: 11
