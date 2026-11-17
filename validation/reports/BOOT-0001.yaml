@@ -1,0 +1,7 @@
+bootstrap_id: BOOT-0001
+branch: luna_kb_v02
+result: pending_validation
+objects_initialized: 11
+initial_revisions: 11
+errors: not_run
+warnings: expected_provisional_authority
