@@ -16,5 +16,6 @@ open_questions:
   - Q-SOURCE-REVISION-001
 candidate_structure_changed: false
 production_content_added: false
-main_unchanged: true
-merge_status: NOT_PERFORMED
+main_unchanged_before_merge: true
+merge_status: MERGED
+merge_commit: 99065aa7320c9e421d9b2b946b9268b934f5504f
