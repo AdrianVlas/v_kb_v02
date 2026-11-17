@@ -1,16 +1,19 @@
 bootstrap_id: BOOT-0001
 branch: luna_kb_v02
-validation_basis_commit: 594545ae3b3b1aeb8dbaf7c64a3020498c0ea9d1
+validation_basis_commit: 43872d67431420e1eac1ad2542ac0262146542f2
 result: PASS
 review_status: BOOTSTRAP_ACCEPTED
 stage_11_scope:
   - MA-01
   - MA-02
   - MA-03
+  - MA-04
+  - MA-05
+  - MA-06
 stage_11_revision: r0002
 objects_initialized: 11
 initial_revisions: 11
-refined_candidate_revisions: 3
+refined_candidate_revisions: 6
 required_files_per_object: 5
 errors: 0
 warnings:
