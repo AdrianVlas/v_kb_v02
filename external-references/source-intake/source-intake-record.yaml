@@ -1,7 +1,24 @@
 intake_record_id: SRC-INTAKE-0001
-status: READY_FOR_SOURCE_INPUT
-source_artifacts_received: 0
+status: SOURCE_METADATA_INVENTORIED
+source_artifacts_received: 2
 source_artifacts_ingested: 0
+inventory_file: external-references/source-intake/source-inventory-0001.json
+inventory_commit: d8141328c58e878f01ff74cc8c2607aefe52cc8c
+inventory_scope:
+  - approved target PDF
+  - approved target TXT
+  - src_C direct contents
+  - src_C/inc direct contents
+metadata_recorded:
+  drive_ids: true
+  urls: true
+  names: true
+  MIME_types: true
+  sizes: true
+  permissions: true
+  timestamps: true
+content_analysis: NOT_PERFORMED
+provenance_status: RECORDED_LOCATION_ONLY
 authority_status: NOT_ESTABLISHED
 revision_basis_status: NOT_ESTABLISHED
 owner: NOT_ESTABLISHED
@@ -20,3 +37,4 @@ rules:
   - require_exact_revision_when_available
   - separate_source_from_knowledge
   - do_not_invent_metadata
+  - do_not_copy_source_content
