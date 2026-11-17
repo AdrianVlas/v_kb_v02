@@ -1,0 +1,9 @@
+object_id: REQ-GUI-0001
+object_type: requirements_gui_specification
+ma: MA-07
+title: "Bootstrap candidate for MA-07"
+created_at: NOT_FIXED
+created_by: NOT_ESTABLISHED
+lifecycle_state: active
+authority_status: candidate
+bootstrap_status: candidate
