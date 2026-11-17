@@ -1,0 +1,6 @@
+question_id: Q-AUTHORITY-001
+title: Governance and cross-boundary decision authority
+status: open
+impact: high
+temporary_rule: Do not infer authority from object ownership
+owner: not_established
