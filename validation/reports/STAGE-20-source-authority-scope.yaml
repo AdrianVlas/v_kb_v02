@@ -1,0 +1,24 @@
+stage_id: STAGE-20
+branch: stage20-source-authority-scope
+status: SOURCE_AUTHORITY_SCOPE_ESTABLISHED
+base_main: dfff27c06044aeee7eeda93a58c5b25a1ea7fe19
+authority_role: Lead Engineer
+authority_scope: Engineering System 01
+authority_applicability:
+  - approved target PDF
+  - approved target TXT
+  - src_C direct contents
+  - src_C/inc direct contents
+authority_basis: USER_PROVIDED_GOVERNANCE_ASSIGNMENT
+authority_status: ESTABLISHED_FOR_INVENTORIED_SCOPE
+revision_basis_status: ESTABLISHED_FOR_INVENTORIED_SCOPE
+provenance_status: RECORDED_LOCATION_ONLY
+content_analysis: NOT_PERFORMED
+source_artifacts_ingested: 0
+resolved_question: Q-AUTHORITY-001
+remaining_open_question:
+  - Q-SOURCE-REVISION-001
+candidate_structure_changed: false
+production_content_added: false
+main_unchanged: true
+merge_status: NOT_PERFORMED
